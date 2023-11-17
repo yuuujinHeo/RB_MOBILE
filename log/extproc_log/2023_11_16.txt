@@ -1,0 +1,2913 @@
+2023-11-16 17:50:37 [CONSTRUCTOR] SharedMemory is already exist. attach success.
+2023-11-16 17:50:37 [CONSTRUCTOR] SharedMemory(Return) is already exist. attach success
+2023-11-16 17:50:37 [CONSTRUCTOR] SharedMemory(Return) Clear
+2023-11-16 17:50:37 [CONSTRUCTOR] SharedMemory(WifiList) is already exist. attach success
+2023-11-16 17:50:37 [CONSTRUCTOR] SharedMemory(WifiList) Clear
+2023-11-16 17:50:38 [ONTIMER] New Command in : 3
+2023-11-16 17:50:38 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-16 17:50:38 [FUNCTION] Get Wifi List
+2023-11-16 17:50:38 [PROCESS] Start Process : nmcli device wifi list
+2023-11-16 17:50:42 [OUTPUT] 3 : IN-USE  BSSID              SSID                  MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh     Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh     Infra  8     270 Mbit/s  90      ▂▄▆█  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh     Infra  36    270 Mbit/s  90      ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh     Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+
+2023-11-16 17:50:42 [RETURN] Get Wifi List : 1
+2023-11-16 17:50:42 [OUTPUT] 3 :         E8:9F:80:DD:50:00  mobile_robot_mesh     Infra  149   540 Mbit/s  80      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2            Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+        D8:EC:5E:DD:57:6F  order_picking         Infra  36    270 Mbit/s  77      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G         Infra  44    540 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+        D8:EC:5E:DD:57:70  order_picking         Infra  161   540 Mbit/s  75      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh     Infra  13    130 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking         Infra  2     130 Mbit/s  64      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                    Infra  2     130 Mbit/s  60      ▂▄▆_  WPA2      
+        58:86:94:7E:D6:48  Rainbow1F_Rest        Infra  5     270 Mbit/s  52      ▂▄__  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh     Infra  161   540 Mbit/s  52      ▂▄__  WPA2      
+        28:AC:67:0D:A5:88  Rainbow1F_Conference  Infra  1     270 Mbit/s  29      ▂___  WPA2      
+
+2023-11-16 17:50:42 [RETURN] Get Wifi List : 6
+2023-11-16 17:58:47 [CONSTRUCTOR] SharedMemory is already exist. attach success.
+2023-11-16 17:58:47 [CONSTRUCTOR] SharedMemory(Return) is already exist. attach success
+2023-11-16 17:58:47 [CONSTRUCTOR] SharedMemory(Return) Clear
+2023-11-16 17:58:47 [CONSTRUCTOR] SharedMemory(WifiList) is already exist. attach success
+2023-11-16 17:58:47 [CONSTRUCTOR] SharedMemory(WifiList) Clear
+2023-11-16 17:59:06 [ONTIMER] New Command in : 3
+2023-11-16 17:59:06 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-16 17:59:06 [FUNCTION] Get Wifi List
+2023-11-16 17:59:06 [PROCESS] Start Process : nmcli device wifi list
+2023-11-16 17:59:10 [OUTPUT] 3 : IN-USE  BSSID              SSID               MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh  Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                 Infra  8     270 Mbit/s  90      ▂▄▆█  WPA2      
+
+2023-11-16 17:59:10 [RETURN] Get Wifi List : 1
+2023-11-16 17:59:10 [OUTPUT] 3 :         E8:9F:80:DD:4F:FE  mobile_robot_mesh  Infra  8     270 Mbit/s  90      ▂▄▆█  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh  Infra  36    270 Mbit/s  89      ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh  Infra  44    270 Mbit/s  82      ▂▄▆█  WPA2      
+        D8:EC:5E:DD:57:6F  order_picking      Infra  36    270 Mbit/s  80      ▂▄▆_  WPA2      
+        E8:9F:80:DD:50:00  mobile_robot_mesh  Infra  149   540 Mbit/s  77      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking      Infra  161   540 Mbit/s  75      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking      Infra  2     130 Mbit/s  74      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2         Infra  13    260 Mbit/s  74      ▂▄▆_  WPA1 WPA2 
+        DE:EC:5E:DD:57:6E  --                 Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh  Infra  13    130 Mbit/s  67      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh  Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime             Infra  1     270 Mbit/s  34      ▂▄__  --        
+
+2023-11-16 17:59:10 [RETURN] Get Wifi List : 4
+2023-11-16 17:59:11 [ONTIMER] New Command in : 2
+2023-11-16 17:59:11 [ONTIMER] Set Command : 2 (list size = 0)
+2023-11-16 17:59:11 [FUNCTION] Get System Volume
+2023-11-16 17:59:11 [PROCESS] Start Process : amixer -D pulse sget Master
+2023-11-16 17:59:11 [OUTPUT] 2 : Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 41944 [64%] [on]
+  Front Right: Playback 41944 [64%] [on]
+
+2023-11-16 17:59:11 [RETURN] Get System Volume : 64
+2023-11-16 17:59:11 [ONTIMER] New Command in : 5
+2023-11-16 17:59:11 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:11 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:11 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:11 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:11 [ERROR] 5 : 
+2023-11-16 17:59:11 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:12 [ONTIMER] New Command in : 5
+2023-11-16 17:59:12 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:12 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:12 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:12 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:12 [ERROR] 5 : 
+2023-11-16 17:59:12 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:12 [ONTIMER] New Command in : 5
+2023-11-16 17:59:12 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:12 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:12 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:12 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:12 [ERROR] 5 : 
+2023-11-16 17:59:12 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:13 [ONTIMER] New Command in : 5
+2023-11-16 17:59:13 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:13 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:13 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:13 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:13 [ERROR] 5 : 
+2023-11-16 17:59:13 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:13 [ONTIMER] New Command in : 5
+2023-11-16 17:59:13 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:13 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:13 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:13 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:13 [ERROR] 5 : 
+2023-11-16 17:59:13 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:14 [ONTIMER] New Command in : 5
+2023-11-16 17:59:14 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:14 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:14 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:14 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:14 [ERROR] 5 : 
+2023-11-16 17:59:14 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:14 [ONTIMER] New Command in : 5
+2023-11-16 17:59:14 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:14 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:14 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:14 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:14 [ERROR] 5 : 
+2023-11-16 17:59:14 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:15 [ONTIMER] New Command in : 5
+2023-11-16 17:59:15 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:15 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:15 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:15 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:15 [ERROR] 5 : 
+2023-11-16 17:59:15 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:15 [ONTIMER] New Command in : 5
+2023-11-16 17:59:15 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:15 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:15 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:15 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:15 [ERROR] 5 : 
+2023-11-16 17:59:15 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:16 [ONTIMER] New Command in : 5
+2023-11-16 17:59:16 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:16 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:16 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:16 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:16 [ERROR] 5 : 
+2023-11-16 17:59:16 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:16 [ONTIMER] New Command in : 5
+2023-11-16 17:59:16 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:16 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:16 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:16 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:16 [ERROR] 5 : 
+2023-11-16 17:59:16 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:17 [ONTIMER] New Command in : 5
+2023-11-16 17:59:17 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:17 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:17 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:17 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:17 [ERROR] 5 : 
+2023-11-16 17:59:17 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:17 [ONTIMER] New Command in : 5
+2023-11-16 17:59:17 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:17 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:17 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:17 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:17 [ERROR] 5 : 
+2023-11-16 17:59:17 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:18 [ONTIMER] New Command in : 5
+2023-11-16 17:59:18 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:18 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:18 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:18 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:18 [ERROR] 5 : 
+2023-11-16 17:59:18 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:18 [ONTIMER] New Command in : 5
+2023-11-16 17:59:18 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:18 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:18 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:18 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:18 [ERROR] 5 : 
+2023-11-16 17:59:18 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:19 [ONTIMER] New Command in : 5
+2023-11-16 17:59:19 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:19 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:19 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:19 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:19 [ERROR] 5 : 
+2023-11-16 17:59:19 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:19 [ONTIMER] New Command in : 5
+2023-11-16 17:59:19 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:19 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:19 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:19 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:19 [ERROR] 5 : 
+2023-11-16 17:59:19 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:20 [ONTIMER] New Command in : 5
+2023-11-16 17:59:20 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:20 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:20 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:20 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:20 [ERROR] 5 : 
+2023-11-16 17:59:20 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:20 [ONTIMER] New Command in : 5
+2023-11-16 17:59:20 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:20 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:20 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:20 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:20 [ERROR] 5 : 
+2023-11-16 17:59:20 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:21 [ONTIMER] New Command in : 5
+2023-11-16 17:59:21 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:21 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:21 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:21 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:21 [ERROR] 5 : 
+2023-11-16 17:59:21 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:21 [ONTIMER] New Command in : 5
+2023-11-16 17:59:21 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:21 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:21 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:21 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:21 [ERROR] 5 : 
+2023-11-16 17:59:21 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:22 [ONTIMER] New Command in : 5
+2023-11-16 17:59:22 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:22 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:22 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:22 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:22 [ERROR] 5 : 
+2023-11-16 17:59:22 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:22 [ONTIMER] New Command in : 5
+2023-11-16 17:59:22 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:22 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:22 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:22 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:22 [ERROR] 5 : 
+2023-11-16 17:59:22 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:23 [ONTIMER] New Command in : 5
+2023-11-16 17:59:23 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:23 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:23 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:23 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:23 [ERROR] 5 : 
+2023-11-16 17:59:23 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:23 [ONTIMER] New Command in : 5
+2023-11-16 17:59:23 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:23 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:23 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:23 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:23 [ERROR] 5 : 
+2023-11-16 17:59:23 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:24 [ONTIMER] New Command in : 5
+2023-11-16 17:59:24 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:24 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:24 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:24 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:24 [ERROR] 5 : 
+2023-11-16 17:59:24 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:24 [ONTIMER] New Command in : 5
+2023-11-16 17:59:24 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:24 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:24 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:24 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:24 [ERROR] 5 : 
+2023-11-16 17:59:24 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:25 [ONTIMER] New Command in : 5
+2023-11-16 17:59:25 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:25 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:25 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:25 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:25 [ERROR] 5 : 
+2023-11-16 17:59:25 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:25 [ONTIMER] New Command in : 5
+2023-11-16 17:59:25 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:25 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:25 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:25 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:25 [ERROR] 5 : 
+2023-11-16 17:59:25 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:26 [ONTIMER] New Command in : 5
+2023-11-16 17:59:26 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:26 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:26 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:26 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:26 [ERROR] 5 : 
+2023-11-16 17:59:26 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:26 [ONTIMER] New Command in : 5
+2023-11-16 17:59:26 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:26 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:26 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:26 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:26 [ERROR] 5 : 
+2023-11-16 17:59:26 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:27 [ONTIMER] New Command in : 5
+2023-11-16 17:59:27 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:27 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:27 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:27 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:27 [ERROR] 5 : 
+2023-11-16 17:59:27 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:27 [ONTIMER] New Command in : 5
+2023-11-16 17:59:27 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:27 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:27 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:27 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:27 [ERROR] 5 : 
+2023-11-16 17:59:27 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:28 [ONTIMER] New Command in : 5
+2023-11-16 17:59:28 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:28 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:28 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:28 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:28 [ERROR] 5 : 
+2023-11-16 17:59:28 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:28 [ONTIMER] New Command in : 5
+2023-11-16 17:59:28 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:28 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:28 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:28 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:28 [ERROR] 5 : 
+2023-11-16 17:59:28 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:29 [ONTIMER] New Command in : 5
+2023-11-16 17:59:29 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:29 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:29 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:29 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:29 [ERROR] 5 : 
+2023-11-16 17:59:29 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:29 [ONTIMER] New Command in : 5
+2023-11-16 17:59:29 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:29 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:29 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:29 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:29 [ERROR] 5 : 
+2023-11-16 17:59:29 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:30 [ONTIMER] New Command in : 5
+2023-11-16 17:59:30 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:30 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:30 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:30 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:30 [ERROR] 5 : 
+2023-11-16 17:59:30 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:30 [ONTIMER] New Command in : 5
+2023-11-16 17:59:30 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:30 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:30 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:30 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:30 [ERROR] 5 : 
+2023-11-16 17:59:30 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:31 [ONTIMER] New Command in : 5
+2023-11-16 17:59:31 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:31 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:31 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:31 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:31 [ERROR] 5 : 
+2023-11-16 17:59:31 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:31 [ONTIMER] New Command in : 5
+2023-11-16 17:59:31 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:31 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:31 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:31 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:31 [ERROR] 5 : 
+2023-11-16 17:59:31 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:32 [ONTIMER] New Command in : 5
+2023-11-16 17:59:32 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:32 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:32 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:32 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:32 [ERROR] 5 : 
+2023-11-16 17:59:32 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:32 [ONTIMER] New Command in : 5
+2023-11-16 17:59:32 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:32 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:32 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:32 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:32 [ERROR] 5 : 
+2023-11-16 17:59:32 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:33 [ONTIMER] New Command in : 5
+2023-11-16 17:59:33 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:33 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:33 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:33 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:33 [ERROR] 5 : 
+2023-11-16 17:59:33 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:33 [ONTIMER] New Command in : 5
+2023-11-16 17:59:33 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:33 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:33 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:33 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:33 [ERROR] 5 : 
+2023-11-16 17:59:33 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:34 [ONTIMER] New Command in : 5
+2023-11-16 17:59:34 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:34 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:34 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:34 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:34 [ERROR] 5 : 
+2023-11-16 17:59:34 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:34 [ONTIMER] New Command in : 5
+2023-11-16 17:59:34 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:34 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:34 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:34 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:34 [ERROR] 5 : 
+2023-11-16 17:59:34 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:35 [ONTIMER] New Command in : 5
+2023-11-16 17:59:35 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:35 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:35 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:35 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:35 [ERROR] 5 : 
+2023-11-16 17:59:35 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:35 [ONTIMER] New Command in : 5
+2023-11-16 17:59:35 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:35 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:35 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:35 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:35 [ERROR] 5 : 
+2023-11-16 17:59:35 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:36 [ONTIMER] New Command in : 5
+2023-11-16 17:59:36 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:36 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:36 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:36 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:36 [ERROR] 5 : 
+2023-11-16 17:59:36 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:36 [ONTIMER] New Command in : 5
+2023-11-16 17:59:36 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:36 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:36 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:36 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:36 [ERROR] 5 : 
+2023-11-16 17:59:36 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:37 [ONTIMER] New Command in : 5
+2023-11-16 17:59:37 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:37 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:37 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:37 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:37 [ERROR] 5 : 
+2023-11-16 17:59:37 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:37 [ONTIMER] New Command in : 5
+2023-11-16 17:59:37 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:37 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:37 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:37 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:37 [ERROR] 5 : 
+2023-11-16 17:59:37 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:38 [ONTIMER] New Command in : 5
+2023-11-16 17:59:38 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:38 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:38 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:38 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:38 [ERROR] 5 : 
+2023-11-16 17:59:38 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:38 [ONTIMER] New Command in : 5
+2023-11-16 17:59:38 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:38 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:38 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:38 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:38 [ERROR] 5 : 
+2023-11-16 17:59:38 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:39 [ONTIMER] New Command in : 5
+2023-11-16 17:59:39 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:39 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:39 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:39 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:39 [ERROR] 5 : 
+2023-11-16 17:59:39 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:39 [ONTIMER] New Command in : 5
+2023-11-16 17:59:39 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:39 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:39 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:39 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:39 [ERROR] 5 : 
+2023-11-16 17:59:39 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:40 [ONTIMER] New Command in : 5
+2023-11-16 17:59:40 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:40 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:40 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:40 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:40 [ERROR] 5 : 
+2023-11-16 17:59:40 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:40 [ONTIMER] New Command in : 5
+2023-11-16 17:59:40 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:40 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:40 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:40 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:40 [ERROR] 5 : 
+2023-11-16 17:59:40 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:41 [ONTIMER] New Command in : 5
+2023-11-16 17:59:41 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:41 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:41 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:41 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:41 [ERROR] 5 : 
+2023-11-16 17:59:41 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:41 [ONTIMER] New Command in : 5
+2023-11-16 17:59:41 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:41 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:41 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:41 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:41 [ERROR] 5 : 
+2023-11-16 17:59:41 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:42 [ONTIMER] New Command in : 5
+2023-11-16 17:59:42 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:42 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:42 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:42 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:42 [ERROR] 5 : 
+2023-11-16 17:59:42 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:42 [ONTIMER] New Command in : 5
+2023-11-16 17:59:42 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:42 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:42 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:42 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:42 [ERROR] 5 : 
+2023-11-16 17:59:42 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:43 [ONTIMER] New Command in : 5
+2023-11-16 17:59:43 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:43 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:43 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:43 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:43 [ERROR] 5 : 
+2023-11-16 17:59:43 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:43 [ONTIMER] New Command in : 5
+2023-11-16 17:59:43 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:43 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:43 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:43 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:43 [ERROR] 5 : 
+2023-11-16 17:59:43 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:44 [ONTIMER] New Command in : 5
+2023-11-16 17:59:44 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:44 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:44 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:44 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:44 [ERROR] 5 : 
+2023-11-16 17:59:44 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:44 [ONTIMER] New Command in : 5
+2023-11-16 17:59:44 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:44 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:44 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:44 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:44 [ERROR] 5 : 
+2023-11-16 17:59:44 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:45 [ONTIMER] New Command in : 5
+2023-11-16 17:59:45 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:45 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:45 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:45 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:45 [ERROR] 5 : 
+2023-11-16 17:59:45 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:45 [ONTIMER] New Command in : 5
+2023-11-16 17:59:45 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:45 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:45 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:45 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:45 [ERROR] 5 : 
+2023-11-16 17:59:45 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:46 [ONTIMER] New Command in : 5
+2023-11-16 17:59:46 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:46 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:46 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:46 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:46 [ERROR] 5 : 
+2023-11-16 17:59:46 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:46 [ONTIMER] New Command in : 5
+2023-11-16 17:59:46 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:46 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:46 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:46 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:46 [ERROR] 5 : 
+2023-11-16 17:59:46 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:47 [ONTIMER] New Command in : 5
+2023-11-16 17:59:47 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:47 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:47 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:47 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:47 [ERROR] 5 : 
+2023-11-16 17:59:47 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:47 [ONTIMER] New Command in : 5
+2023-11-16 17:59:47 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:47 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:47 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:47 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:47 [ERROR] 5 : 
+2023-11-16 17:59:47 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:48 [ONTIMER] New Command in : 5
+2023-11-16 17:59:48 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:48 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:48 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:48 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:48 [ERROR] 5 : 
+2023-11-16 17:59:48 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:48 [ONTIMER] New Command in : 5
+2023-11-16 17:59:48 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:48 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:48 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:48 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:48 [ERROR] 5 : 
+2023-11-16 17:59:48 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:49 [ONTIMER] New Command in : 5
+2023-11-16 17:59:49 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:49 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:49 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:49 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:49 [ERROR] 5 : 
+2023-11-16 17:59:49 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:49 [ONTIMER] New Command in : 5
+2023-11-16 17:59:49 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:49 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:49 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:49 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:49 [ERROR] 5 : 
+2023-11-16 17:59:49 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:50 [ONTIMER] New Command in : 5
+2023-11-16 17:59:50 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:50 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:50 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:50 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:50 [ERROR] 5 : 
+2023-11-16 17:59:50 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 17:59:50 [ONTIMER] New Command in : 5
+2023-11-16 17:59:50 [ONTIMER] Set Command : 5 (list size = 0)
+2023-11-16 17:59:50 [FUNCTION] Set Wifi IP : mobile_robot_mesh -> mobile_robot_mesh, , 
+2023-11-16 17:59:50 [PROCESS] Start Process : nmcli con mod mobile_robot_mesh ipv4.address mobile_robot_mesh/24 ipv4.dns  ipv4.gateway  ipv4.method manual
+2023-11-16 17:59:50 [PROCESS] Start Process : nmcli con up mobile_robot_mesh
+2023-11-16 17:59:50 [ERROR] 5 : 
+2023-11-16 17:59:50 [RETURN ERROR] Set Wifi IP Failed : mobile_robot_mesh, 
+2023-11-16 18:00:34 [CONSTRUCTOR] SharedMemory is already exist. attach success.
+2023-11-16 18:00:34 [CONSTRUCTOR] SharedMemory(Return) is already exist. attach success
+2023-11-16 18:00:34 [CONSTRUCTOR] SharedMemory(Return) Clear
+2023-11-16 18:00:34 [CONSTRUCTOR] SharedMemory(WifiList) is already exist. attach success
+2023-11-16 18:00:34 [CONSTRUCTOR] SharedMemory(WifiList) Clear
+2023-11-16 18:00:45 [ONTIMER] New Command in : 3
+2023-11-16 18:00:45 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-16 18:00:45 [FUNCTION] Get Wifi List
+2023-11-16 18:00:45 [PROCESS] Start Process : nmcli device wifi list
+2023-11-16 18:00:49 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  95      ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  94      ▂▄▆█  WPA2      
+
+2023-11-16 18:00:49 [RETURN] Get Wifi List : 1
+2023-11-16 18:00:49 [OUTPUT] 3 :         EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  89      ▂▄▆█  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  82      ▂▄▆█  WPA2      
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  80      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  80      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  79      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  77      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  75      ▂▄▆_  WPA1 WPA2 
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  74      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  62      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  55      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  34      ▂▄__  --        
+        28:AC:67:0D:A5:88  Rainbow1F_Conference       Infra  1     270 Mbit/s  34      ▂▄__  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   34      ▂▄__  WPA2      
+
+2023-11-16 18:00:49 [RETURN] Get Wifi List : 7
+2023-11-16 18:00:50 [ONTIMER] New Command in : 2
+2023-11-16 18:00:50 [ONTIMER] Set Command : 2 (list size = 0)
+2023-11-16 18:00:50 [FUNCTION] Get System Volume
+2023-11-16 18:00:50 [PROCESS] Start Process : amixer -D pulse sget Master
+2023-11-16 18:00:50 [OUTPUT] 2 : Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 41944 [64%] [on]
+  Front Right: Playback 41944 [64%] [on]
+
+2023-11-16 18:00:50 [RETURN] Get System Volume : 64
+2023-11-16 18:00:50 [ONTIMER] New Command in : 4
+2023-11-16 18:00:50 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:50 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:50 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:50 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+
+2023-11-16 18:00:50 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:50 [OUTPUT] 4 : connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:00:50 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:50 [ONTIMER] New Command in : 4
+2023-11-16 18:00:50 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:50 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:50 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:50 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+
+2023-11-16 18:00:50 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:50 [OUTPUT] 4 : connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+
+2023-11-16 18:00:50 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:51 [ONTIMER] New Command in : 4
+2023-11-16 18:00:51 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:51 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:51 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:51 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+
+2023-11-16 18:00:51 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:51 [OUTPUT] 4 : connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:00:51 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:51 [ONTIMER] New Command in : 4
+2023-11-16 18:00:51 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:51 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:51 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:51 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+
+2023-11-16 18:00:51 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:51 [OUTPUT] 4 : connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:00:51 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:52 [ONTIMER] New Command in : 4
+2023-11-16 18:00:52 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:52 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:52 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:52 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+
+2023-11-16 18:00:52 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:52 [OUTPUT] 4 : connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:00:52 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:52 [ONTIMER] New Command in : 4
+2023-11-16 18:00:52 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:52 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:52 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:52 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+
+2023-11-16 18:00:52 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:52 [OUTPUT] 4 : connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+
+2023-11-16 18:00:52 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:53 [ONTIMER] New Command in : 4
+2023-11-16 18:00:53 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:53 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:53 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:53 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+
+2023-11-16 18:00:53 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:53 [OUTPUT] 4 : connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:00:53 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:53 [ONTIMER] New Command in : 4
+2023-11-16 18:00:53 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:53 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:53 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:53 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+
+2023-11-16 18:00:53 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:53 [OUTPUT] 4 : connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+
+2023-11-16 18:00:53 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:54 [ONTIMER] New Command in : 4
+2023-11-16 18:00:54 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:54 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:54 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:54 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+
+2023-11-16 18:00:54 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:54 [OUTPUT] 4 : connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:00:54 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:54 [ONTIMER] New Command in : 4
+2023-11-16 18:00:54 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:54 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:54 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:54 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+
+2023-11-16 18:00:54 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:54 [OUTPUT] 4 : connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+
+2023-11-16 18:00:54 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:55 [ONTIMER] New Command in : 4
+2023-11-16 18:00:55 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:55 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:55 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:55 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+
+2023-11-16 18:00:55 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:55 [OUTPUT] 4 : connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:00:55 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:55 [ONTIMER] New Command in : 4
+2023-11-16 18:00:55 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:55 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:55 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:55 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+
+2023-11-16 18:00:55 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:55 [OUTPUT] 4 : connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:00:55 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:56 [ONTIMER] New Command in : 4
+2023-11-16 18:00:56 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:56 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:56 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:56 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+
+2023-11-16 18:00:56 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:56 [OUTPUT] 4 : connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+802-11-wireless-security.key-mgmt:      wpa-psk
+802-11-wireless-security.wep-tx-keyidx: 0
+802-11-wireless-security.auth-alg:      --
+
+2023-11-16 18:00:56 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:56 [ONTIMER] New Command in : 4
+2023-11-16 18:00:56 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:56 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:56 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:56 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+
+2023-11-16 18:00:56 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:56 [OUTPUT] 4 : 802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:00:56 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:57 [ONTIMER] New Command in : 4
+2023-11-16 18:00:57 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:57 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:57 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:57 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+
+2023-11-16 18:00:57 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:57 [OUTPUT] 4 : connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+
+2023-11-16 18:00:57 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:57 [ONTIMER] New Command in : 4
+2023-11-16 18:00:57 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:57 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:57 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:57 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+
+2023-11-16 18:00:57 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:57 [OUTPUT] 4 : connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+802-11-wireless-security.key-mgmt:      wpa-psk
+802-11-wireless-security.wep-tx-keyidx: 0
+802-11-wireless-security.auth-alg:      --
+802-11-wireless-security.proto:         --
+802-11-wireless-security.pairwise:      --
+802-11-wireless-security.group:         --
+802-11-wireless-security.pmf:           0 (default)
+802-11-wireless-security.leap-username: --
+802-11-wireless-security.wep-key0:      <hidden>
+802-11-wireless-security.wep-key1:      <hidden>
+802-11-wireless-security.wep-key2:      <hidden>
+802-11-wireless-security.wep-key3:      <hidden>
+802-11-wireless-security.wep-key-flags: 0 (none)
+802-11-wireless-security.wep-key-type:  unknown
+802-11-wireless-security.psk:           <hidden>
+802-11-wireless-security.psk-flags:     0 (none)
+802-11-wireless-security.leap-password: <hidden>
+802-11-wireless-security.leap-password-flags:0 (none)
+802-11-wireless-security.wps-method:    0x0 (default)
+802-11-wireless-security.fils:          0 (default)
+ipv4.method:                            manual
+ipv4.dns:                               10.108.1.1
+ipv4.dns-search:                        --
+ipv4.dns-options:                       --
+ipv4.dns-priority:                      0
+ipv4.addresses:                         10.108.1.223/24
+ipv4.gateway:                           10.108.1.1
+ipv4.routes:                            --
+ipv4.route-metric:                      -1
+ipv4.route-table:                       0 (unspec)
+ipv4.routing-rules:                     --
+ipv4.ignore-auto-routes:                no
+ipv4.ignore-auto-dns:                   no
+ipv4.dhcp-client-id:                    --
+ipv4.dhcp-iaid:                         --
+ipv4.dhcp-timeout:                      0 (default)
+ipv4.dhcp-send-hostname:                yes
+ipv4.dhcp-hostname:                     --
+ipv4.dhcp-fqdn:                         --
+ipv4.dhcp-hostname-flags:               0x0 (none)
+ipv4.never-default:                     no
+ipv4.may-fail:                          yes
+ipv4.dad-timeout:                       -1 (default)
+ipv6.method:                            auto
+ipv6.dns:                               --
+ipv6.dns-search:                        --
+ipv6.dns-options:                       --
+ipv6.dns-priority:                      0
+ipv6.addresses:                         --
+ipv6.gateway:                           --
+ipv6.routes:                            --
+ipv6.route-metric:                      -1
+ipv6.route-table:                       0 (unspec)
+ipv6.routing-rules:                     --
+ipv6.ignore-auto-routes:                no
+ipv6.ignore-auto-dns:                   no
+ipv6.never-default:                     no
+ipv6.may-fail:                          yes
+ipv6.ip6-privacy:                       -1 (unknown)
+ipv6.addr-gen-mode:                     stable-privacy
+ipv6.ra-timeout:                        0 (default)
+ipv6.dhcp-duid:                         --
+
+2023-11-16 18:00:57 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:58 [ONTIMER] New Command in : 4
+2023-11-16 18:00:58 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:58 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:58 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:58 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+
+2023-11-16 18:00:58 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:58 [OUTPUT] 4 : connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+802-11-wireless-security.key-mgmt:      wpa-psk
+802-11-wireless-security.wep-tx-keyidx: 0
+802-11-wireless-security.auth-alg:      --
+802-11-wireless-security.proto:         --
+802-11-wireless-security.pairwise:      --
+802-11-wireless-security.group:         --
+
+2023-11-16 18:00:58 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:58 [ONTIMER] New Command in : 4
+2023-11-16 18:00:58 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:58 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:58 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:58 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+
+2023-11-16 18:00:58 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:58 [OUTPUT] 4 : connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:00:58 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:59 [ONTIMER] New Command in : 4
+2023-11-16 18:00:59 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:59 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:59 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:59 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+
+2023-11-16 18:00:59 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:59 [OUTPUT] 4 : connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:00:59 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:59 [ONTIMER] New Command in : 4
+2023-11-16 18:00:59 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:00:59 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:00:59 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:00:59 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+
+2023-11-16 18:00:59 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:00:59 [OUTPUT] 4 : connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+
+2023-11-16 18:00:59 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:00 [ONTIMER] New Command in : 4
+2023-11-16 18:01:00 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:01:00 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:01:00 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:01:00 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+
+2023-11-16 18:01:00 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:00 [OUTPUT] 4 : connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:01:00 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:00 [ONTIMER] New Command in : 4
+2023-11-16 18:01:00 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:01:00 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:01:00 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:01:00 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+
+2023-11-16 18:01:00 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:00 [OUTPUT] 4 : connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+
+2023-11-16 18:01:00 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:01 [ONTIMER] New Command in : 4
+2023-11-16 18:01:01 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:01:01 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:01:01 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:01:01 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+
+2023-11-16 18:01:01 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:01 [OUTPUT] 4 : connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:01:01 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:01 [ONTIMER] New Command in : 4
+2023-11-16 18:01:01 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:01:01 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:01:01 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:01:01 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+
+2023-11-16 18:01:01 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:01 [OUTPUT] 4 : connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:01:01 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:02 [ONTIMER] New Command in : 4
+2023-11-16 18:01:02 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:01:02 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:01:02 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:01:02 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+
+2023-11-16 18:01:02 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:02 [OUTPUT] 4 : connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+
+2023-11-16 18:01:02 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:02 [ONTIMER] New Command in : 4
+2023-11-16 18:01:02 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:01:02 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:01:02 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:01:02 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+
+2023-11-16 18:01:02 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:02 [OUTPUT] 4 : 802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+802-11-wireless-security.key-mgmt:      wpa-psk
+802-11-wireless-security.wep-tx-keyidx: 0
+802-11-wireless-security.auth-alg:      --
+802-11-wireless-security.proto:         --
+802-11-wireless-security.pairwise:      --
+802-11-wireless-security.group:         --
+802-11-wireless-security.pmf:           0 (default)
+802-11-wireless-security.leap-username: --
+802-11-wireless-security.wep-key0:      <hidden>
+802-11-wireless-security.wep-key1:      <hidden>
+802-11-wireless-security.wep-key2:      <hidden>
+802-11-wireless-security.wep-key3:      <hidden>
+802-11-wireless-security.wep-key-flags: 0 (none)
+802-11-wireless-security.wep-key-type:  unknown
+802-11-wireless-security.psk:           <hidden>
+802-11-wireless-security.psk-flags:     0 (none)
+802-11-wireless-security.leap-password: <hidden>
+802-11-wireless-security.leap-password-flags:0 (none)
+802-11-wireless-security.wps-method:    0x0 (default)
+802-11-wireless-security.fils:          0 (default)
+
+2023-11-16 18:01:02 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:03 [ONTIMER] New Command in : 4
+2023-11-16 18:01:03 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:01:03 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:01:03 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:01:03 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+
+2023-11-16 18:01:03 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:03 [OUTPUT] 4 : connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+802-11-wireless-security.key-mgmt:      wpa-psk
+802-11-wireless-security.wep-tx-keyidx: 0
+802-11-wireless-security.auth-alg:      --
+802-11-wireless-security.proto:         --
+802-11-wireless-security.pairwise:      --
+802-11-wireless-security.group:         --
+802-11-wireless-security.pmf:           0 (default)
+802-11-wireless-security.leap-username: --
+802-11-wireless-security.wep-key0:      <hidden>
+802-11-wireless-security.wep-key1:      <hidden>
+802-11-wireless-security.wep-key2:      <hidden>
+
+2023-11-16 18:01:03 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:03 [ONTIMER] New Command in : 4
+2023-11-16 18:01:03 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:01:03 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:01:03 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:01:03 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+
+2023-11-16 18:01:03 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:03 [OUTPUT] 4 : connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:01:03 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:04 [ONTIMER] New Command in : 4
+2023-11-16 18:01:04 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:01:04 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:01:04 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:01:04 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+
+2023-11-16 18:01:04 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:04 [OUTPUT] 4 : connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:01:04 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:04 [ONTIMER] New Command in : 4
+2023-11-16 18:01:04 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:01:04 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:01:04 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:01:04 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+
+2023-11-16 18:01:04 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:04 [OUTPUT] 4 : connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:01:04 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:05 [ONTIMER] New Command in : 4
+2023-11-16 18:01:05 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:01:05 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:01:05 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:01:05 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+
+2023-11-16 18:01:05 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:01:05 [OUTPUT] 4 : connection.auth-retries:                -1
+connection.timestamp:                   1700124983
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+802-11-wireless-security.key-mgmt:      wpa-psk
+802-11-wireless-security.wep-tx-keyidx: 0
+802-11-wireless-security.auth-alg:      --
+802-11-wireless-security.proto:         --
+802-11-wireless-security.pairwise:      --
+802-11-wireless-security.group:         --
+802-11-wireless-security.pmf:           0 (default)
+802-11-wireless-security.leap-username: --
+802-11-wireless-security.wep-key0:      <hidden>
+802-11-wireless-security.wep-key1:      <hidden>
+802-11-wireless-security.wep-key2:      <hidden>
+802-11-wireless-security.wep-key3:      <hidden>
+802-11-wireless-security.wep-key-flags: 0 (none)
+802-11-wireless-security.wep-key-type:  unknown
+802-11-wireless-security.psk:           <hidden>
+802-11-wireless-security.psk-flags:     0 (none)
+802-11-wireless-security.leap-password: <hidden>
+802-11-wireless-security.leap-password-flags:0 (none)
+802-11-wireless-security.wps-method:    0x0 (default)
+802-11-wireless-security.fils:          0 (default)
+
+2023-11-16 18:01:05 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:35 [CONSTRUCTOR] SharedMemory is already exist. attach success.
+2023-11-16 18:03:35 [CONSTRUCTOR] SharedMemory(Return) is already exist. attach success
+2023-11-16 18:03:35 [CONSTRUCTOR] SharedMemory(Return) Clear
+2023-11-16 18:03:35 [CONSTRUCTOR] SharedMemory(WifiList) is already exist. attach success
+2023-11-16 18:03:35 [CONSTRUCTOR] SharedMemory(WifiList) Clear
+2023-11-16 18:03:51 [ONTIMER] New Command in : 3
+2023-11-16 18:03:51 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-16 18:03:51 [FUNCTION] Get Wifi List
+2023-11-16 18:03:51 [PROCESS] Start Process : nmcli device wifi list
+2023-11-16 18:03:51 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  92      ▂▄▆█  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  85      ▂▄▆█  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  82      ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  82      ▂▄▆█  WPA2      
+
+2023-11-16 18:03:51 [RETURN] Get Wifi List : 2
+2023-11-16 18:03:51 [OUTPUT] 3 :         E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  82      ▂▄▆█  WPA2      
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  80      ▂▄▆_  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  78      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  77      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  75      ▂▄▆_  WPA1 WPA2 
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  74      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  70      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  57      ▂▄▆_  WPA2      
+        28:AC:67:0D:A5:88  Rainbow1F_Conference       Infra  1     270 Mbit/s  34      ▂▄__  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   34      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  32      ▂▄__  --        
+
+2023-11-16 18:03:51 [RETURN] Get Wifi List : 7
+2023-11-16 18:03:51 [ONTIMER] New Command in : 2
+2023-11-16 18:03:51 [ONTIMER] Set Command : 2 (list size = 0)
+2023-11-16 18:03:51 [FUNCTION] Get System Volume
+2023-11-16 18:03:51 [PROCESS] Start Process : amixer -D pulse sget Master
+2023-11-16 18:03:51 [OUTPUT] 2 : Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 41944 [64%] [on]
+  Front Right: Playback 41944 [64%] [on]
+
+2023-11-16 18:03:51 [RETURN] Get System Volume : 64
+2023-11-16 18:03:52 [ONTIMER] New Command in : 4
+2023-11-16 18:03:52 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:03:52 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:03:52 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:03:52 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+
+2023-11-16 18:03:52 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:52 [OUTPUT] 4 : connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700125283
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:03:52 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:52 [ONTIMER] New Command in : 4
+2023-11-16 18:03:52 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:03:52 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:03:52 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:03:52 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+
+2023-11-16 18:03:52 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:52 [OUTPUT] 4 : connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700125283
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:03:52 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:53 [ONTIMER] New Command in : 4
+2023-11-16 18:03:53 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:03:53 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:03:53 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:03:53 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+
+2023-11-16 18:03:53 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:53 [OUTPUT] 4 : connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700125283
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:03:53 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:53 [ONTIMER] New Command in : 4
+2023-11-16 18:03:53 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:03:53 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:03:53 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:03:53 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+
+2023-11-16 18:03:53 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:53 [OUTPUT] 4 : connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700125283
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+802-11-wireless-security.key-mgmt:      wpa-psk
+802-11-wireless-security.wep-tx-keyidx: 0
+802-11-wireless-security.auth-alg:      --
+802-11-wireless-security.proto:         --
+802-11-wireless-security.pairwise:      --
+
+2023-11-16 18:03:53 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:54 [ONTIMER] New Command in : 4
+2023-11-16 18:03:54 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:03:54 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:03:54 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:03:54 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700125283
+
+2023-11-16 18:03:54 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:54 [OUTPUT] 4 : connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:03:54 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:54 [ONTIMER] New Command in : 4
+2023-11-16 18:03:54 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:03:54 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:03:54 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:03:54 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+
+2023-11-16 18:03:54 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:54 [OUTPUT] 4 : connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700125283
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:03:54 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:55 [ONTIMER] New Command in : 4
+2023-11-16 18:03:55 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:03:55 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:03:55 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:03:55 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700125283
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+
+2023-11-16 18:03:55 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:55 [OUTPUT] 4 : 802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+802-11-wireless-security.key-mgmt:      wpa-psk
+802-11-wireless-security.wep-tx-keyidx: 0
+802-11-wireless-security.auth-alg:      --
+802-11-wireless-security.proto:         --
+802-11-wireless-security.pairwise:      --
+802-11-wireless-security.group:         --
+802-11-wireless-security.pmf:           0 (default)
+802-11-wireless-security.leap-username: --
+802-11-wireless-security.wep-key0:      <hidden>
+802-11-wireless-security.wep-key1:      <hidden>
+802-11-wireless-security.wep-key2:      <hidden>
+802-11-wireless-security.wep-key3:      <hidden>
+
+2023-11-16 18:03:55 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:55 [ONTIMER] New Command in : 4
+2023-11-16 18:03:55 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:03:55 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:03:55 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:03:55 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700125283
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+
+2023-11-16 18:03:55 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:55 [OUTPUT] 4 : 802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+802-11-wireless-security.key-mgmt:      wpa-psk
+802-11-wireless-security.wep-tx-keyidx: 0
+802-11-wireless-security.auth-alg:      --
+802-11-wireless-security.proto:         --
+802-11-wireless-security.pairwise:      --
+802-11-wireless-security.group:         --
+802-11-wireless-security.pmf:           0 (default)
+802-11-wireless-security.leap-username: --
+802-11-wireless-security.wep-key0:      <hidden>
+802-11-wireless-security.wep-key1:      <hidden>
+802-11-wireless-security.wep-key2:      <hidden>
+802-11-wireless-security.wep-key3:      <hidden>
+802-11-wireless-security.wep-key-flags: 0 (none)
+802-11-wireless-security.wep-key-type:  unknown
+802-11-wireless-security.psk:           <hidden>
+802-11-wireless-security.psk-flags:     0 (none)
+802-11-wireless-security.leap-password: <hidden>
+802-11-wireless-security.leap-password-flags:0 (none)
+802-11-wireless-security.wps-method:    0x0 (default)
+802-11-wireless-security.fils:          0 (default)
+ipv4.method:                            manual
+ipv4.dns:                               10.108.1.1
+
+2023-11-16 18:03:55 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:56 [ONTIMER] New Command in : 4
+2023-11-16 18:03:56 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:03:56 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:03:56 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:03:56 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+
+2023-11-16 18:03:56 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:56 [OUTPUT] 4 : connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700125283
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+
+2023-11-16 18:03:56 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:56 [ONTIMER] New Command in : 4
+2023-11-16 18:03:56 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:03:56 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:03:56 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:03:56 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+
+2023-11-16 18:03:56 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:56 [OUTPUT] 4 : connection.auth-retries:                -1
+connection.timestamp:                   1700125283
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+
+2023-11-16 18:03:56 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:57 [ONTIMER] New Command in : 4
+2023-11-16 18:03:57 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:03:57 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:03:57 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:03:57 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+
+2023-11-16 18:03:57 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:57 [OUTPUT] 4 : connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700125283
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+
+2023-11-16 18:03:57 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:57 [ONTIMER] New Command in : 4
+2023-11-16 18:03:57 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-16 18:03:57 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-16 18:03:57 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-16 18:03:57 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        99b9d922-2e48-43fb-a478-8314372013b5
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+
+2023-11-16 18:03:57 [RETURN ERROR] Get Wifi IP : , , 
+2023-11-16 18:03:57 [OUTPUT] 4 : connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700125283
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE,E8:9F:80:DD:55:A3,E8:9F:80:DD:55:A4,E8:9F:80:DD:5F:9E
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+802-11-wireless-security.key-mgmt:      wpa-psk
+802-11-wireless-security.wep-tx-keyidx: 0
+802-11-wireless-security.auth-alg:      --
+802-11-wireless-security.proto:         --
+802-11-wireless-security.pairwise:      --
+802-11-wireless-security.group:         --
+802-11-wireless-security.pmf:           0 (default)
+802-11-wireless-security.leap-username: --
+802-11-wireless-security.wep-key0:      <hidden>
+
+2023-11-16 18:03:57 [RETURN ERROR] Get Wifi IP : , , 
