@@ -1,0 +1,3241 @@
+2023-11-17 11:32:04 [CONSTRUCTOR] SharedMemory is already exist. attach success.
+2023-11-17 11:32:04 [CONSTRUCTOR] SharedMemory(Return) is already exist. attach success
+2023-11-17 11:32:04 [CONSTRUCTOR] SharedMemory(Return) Clear
+2023-11-17 11:32:04 [CONSTRUCTOR] SharedMemory(WifiList) is already exist. attach success
+2023-11-17 11:32:04 [CONSTRUCTOR] SharedMemory(WifiList) Clear
+2023-11-17 11:32:20 [ONTIMER] New Command in : 3
+2023-11-17 11:32:20 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:32:20 [FUNCTION] Get Wifi List
+2023-11-17 11:32:20 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:32:25 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:32:25 [RETURN] Get Wifi List : 0
+2023-11-17 11:32:25 [ONTIMER] New Command in : 2
+2023-11-17 11:32:25 [ONTIMER] Set Command : 2 (list size = 0)
+2023-11-17 11:32:25 [FUNCTION] Get System Volume
+2023-11-17 11:32:25 [PROCESS] Start Process : amixer -D pulse sget Master
+2023-11-17 11:32:25 [OUTPUT] 2 : Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 45854 [70%] [on]
+  Front Right: Playback 45854 [70%] [on]
+
+2023-11-17 11:32:25 [RETURN] Get System Volume : 70
+2023-11-17 11:34:44 [ONTIMER] New Command in : 3
+2023-11-17 11:34:44 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:34:44 [FUNCTION] Get Wifi List
+2023-11-17 11:34:44 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:34:48 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:34:48 [RETURN] Get Wifi List : 0
+2023-11-17 11:34:49 [ONTIMER] New Command in : 3
+2023-11-17 11:34:49 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:34:49 [FUNCTION] Get Wifi List
+2023-11-17 11:34:49 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:34:49 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:34:49 [RETURN] Get Wifi List : 0
+2023-11-17 11:34:50 [ONTIMER] New Command in : 3
+2023-11-17 11:34:50 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:34:50 [FUNCTION] Get Wifi List
+2023-11-17 11:34:50 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:34:50 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:34:50 [RETURN] Get Wifi List : 0
+2023-11-17 11:34:53 [ONTIMER] New Command in : 3
+2023-11-17 11:34:53 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:34:53 [FUNCTION] Get Wifi List
+2023-11-17 11:34:53 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:34:53 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:34:53 [RETURN] Get Wifi List : 0
+2023-11-17 11:34:56 [ONTIMER] New Command in : 3
+2023-11-17 11:34:56 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:34:56 [FUNCTION] Get Wifi List
+2023-11-17 11:34:56 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:34:56 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:34:56 [RETURN] Get Wifi List : 0
+2023-11-17 11:34:59 [ONTIMER] New Command in : 3
+2023-11-17 11:34:59 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:34:59 [FUNCTION] Get Wifi List
+2023-11-17 11:34:59 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:34:59 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:34:59 [RETURN] Get Wifi List : 0
+2023-11-17 11:35:02 [ONTIMER] New Command in : 3
+2023-11-17 11:35:02 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:02 [FUNCTION] Get Wifi List
+2023-11-17 11:35:02 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:02 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:35:02 [RETURN] Get Wifi List : 0
+2023-11-17 11:35:05 [ONTIMER] New Command in : 3
+2023-11-17 11:35:05 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:05 [FUNCTION] Get Wifi List
+2023-11-17 11:35:05 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:05 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:35:05 [RETURN] Get Wifi List : 0
+2023-11-17 11:35:08 [ONTIMER] New Command in : 3
+2023-11-17 11:35:08 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:08 [FUNCTION] Get Wifi List
+2023-11-17 11:35:08 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:08 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:35:08 [RETURN] Get Wifi List : 0
+2023-11-17 11:35:11 [ONTIMER] New Command in : 3
+2023-11-17 11:35:11 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:11 [FUNCTION] Get Wifi List
+2023-11-17 11:35:11 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:11 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:35:11 [RETURN] Get Wifi List : 0
+2023-11-17 11:35:14 [ONTIMER] New Command in : 3
+2023-11-17 11:35:14 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:14 [FUNCTION] Get Wifi List
+2023-11-17 11:35:14 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:14 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:35:14 [RETURN] Get Wifi List : 0
+2023-11-17 11:35:17 [ONTIMER] New Command in : 3
+2023-11-17 11:35:17 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:17 [FUNCTION] Get Wifi List
+2023-11-17 11:35:17 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:17 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:35:17 [RETURN] Get Wifi List : 0
+2023-11-17 11:35:20 [ONTIMER] New Command in : 3
+2023-11-17 11:35:20 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:20 [FUNCTION] Get Wifi List
+2023-11-17 11:35:20 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:24 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+
+2023-11-17 11:35:24 [RETURN] Get Wifi List : 1
+2023-11-17 11:35:24 [OUTPUT] 3 :         EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  85      ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  77      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  74      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  74      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  65      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  62      ▂▄▆_  WPA1 WPA2 
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  57      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  52      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  40      ▂▄__  --        
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  35      ▂▄__  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   30      ▂___  WPA2      
+        28:AC:67:0D:A5:88  Rainbow1F_Conference       Infra  1     270 Mbit/s  29      ▂___  WPA2      
+
+2023-11-17 11:35:24 [RETURN] Get Wifi List : 8
+2023-11-17 11:35:25 [ONTIMER] New Command in : 3
+2023-11-17 11:35:25 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:25 [FUNCTION] Get Wifi List
+2023-11-17 11:35:25 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:25 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:35:25 [RETURN] Get Wifi List : 0
+2023-11-17 11:35:25 [ONTIMER] New Command in : 4
+2023-11-17 11:35:25 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-17 11:35:25 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-17 11:35:25 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-17 11:35:25 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+
+2023-11-17 11:35:25 [OUTPUT] 4 : connection.uuid:                        667c715b-e898-4beb-99f1-fcd06db3f793
+
+2023-11-17 11:35:25 [OUTPUT] 4 : connection.stable-id:                   --
+
+2023-11-17 11:35:25 [OUTPUT] 4 : connection.type:                        802-11-wireless
+
+2023-11-17 11:35:25 [OUTPUT] 4 : connection.interface-name:              wlan0
+
+2023-11-17 11:35:25 [OUTPUT] 4 : connection.autoconnect:                 yes
+
+2023-11-17 11:35:25 [OUTPUT] 4 : connection.autoconnect-priority:        0
+
+2023-11-17 11:35:25 [OUTPUT] 4 : connection.autoconnect-retries:         -1 (default)
+
+2023-11-17 11:35:25 [OUTPUT] 4 : connection.multi-connect:               0 (default)
+
+2023-11-17 11:35:25 [OUTPUT] 4 : connection.auth-retries:                -1
+
+2023-11-17 11:35:25 [OUTPUT] 4 : connection.timestamp:                   1700188382
+
+2023-11-17 11:35:25 [OUTPUT] 4 : connection.read-only:                   no
+
+2023-11-17 11:35:25 [OUTPUT] 4 : connection.permissions:                 --
+
+2023-11-17 11:35:25 [OUTPUT] 4 : connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9A,E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FC,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+802-11-wireless-security.key-mgmt:      wpa-psk
+802-11-wireless-security.wep-tx-keyidx: 0
+802-11-wireless-security.auth-alg:      open
+802-11-wireless-security.proto:         --
+802-11-wireless-security.pairwise:      --
+802-11-wireless-security.group:         --
+802-11-wireless-security.pmf:           0 (default)
+802-11-wireless-security.leap-username: --
+802-11-wireless-security.wep-key0:      <hidden>
+802-11-wireless-security.wep-key1:      <hidden>
+802-11-wireless-security.wep-key2:      <hidden>
+802-11-wireless-security.wep-key3:      <hidden>
+802-11-wireless-security.wep-key-flags: 0 (none)
+802-11-wireless-security.wep-key-type:  unknown
+802-11-wireless-security.psk:           <hidden>
+802-11-wireless-security.psk-flags:     0 (none)
+802-11-wireless-security.leap-password: <hidden>
+802-11-wireless-security.leap-password-flags:0 (none)
+802-11-wireless-security.wps-method:    0x0 (default)
+802-11-wireless-security.fils:          0 (default)
+ipv4.method:                            auto
+ipv4.dns:                               --
+ipv4.dns-search:                        --
+ipv4.dns-options:                       --
+ipv4.dns-priority:                      0
+ipv4.addresses:                         --
+ipv4.gateway:                           --
+ipv4.routes:                            --
+ipv4.route-metric:                      -1
+ipv4.route-table:                       0 (unspec)
+ipv4.routing-rules:                     --
+ipv4.ignore-auto-routes:                no
+ipv4.ignore-auto-dns:                   no
+ipv4.dhcp-client-id:                    --
+ipv4.dhcp-iaid:                         --
+ipv4.dhcp-timeout:                      0 (default)
+ipv4.dhcp-send-hostname:                yes
+ipv4.dhcp-hostname:                     --
+ipv4.dhcp-fqdn:                         --
+ipv4.dhcp-hostname-flags:               0x0 (none)
+ipv4.never-default:                     no
+ipv4.may-fail:                          yes
+ipv4.dad-timeout:                       -1 (default)
+ipv6.method:                            auto
+ipv6.dns:                               --
+ipv6.dns-search:                        --
+ipv6.dns-options:                       --
+ipv6.dns-priority:                      0
+ipv6.addresses:                         --
+ipv6.gateway:                           --
+ipv6.routes:                            --
+ipv6.route-metric:                      -1
+ipv6.route-table:                       0 (unspec)
+ipv6.routing-rules:                     --
+ipv6.ignore-auto-routes:                no
+ipv6.ignore-auto-dns:                   no
+ipv6.never-default:                     no
+ipv6.may-fail:                          yes
+ipv6.ip6-privacy:                       -1 (unknown)
+ipv6.addr-gen-mode:                     stable-privacy
+ipv6.ra-timeout:                        0 (default)
+ipv6.dhcp-duid:                         --
+ipv6.dhcp-iaid:                         --
+ipv6.dhcp-timeout:                      0 (default)
+ipv6.dhcp-send-hostname:                yes
+ipv6.dhcp-hostname:                     --
+ipv6.dhcp-hostname-flags:               0x0 (none)
+ipv6.token:                             --
+proxy.method:                           none
+proxy.browser-only:                     no
+proxy.pac-url:                          --
+proxy.pac-script:                       --
+GENERAL.NAME:                           mobile_robot_mesh
+GENERAL.UUID:                           667c715b-e898-4beb-99f1-fcd06db3f793
+GENERAL.DEVICES:                        wlan0
+GENERAL.IP-IFACE:                       wlan0
+GENERAL.STATE:                          activated
+GENERAL.DEFAULT:                        no
+GENERAL.DEFAULT6:                       no
+GENERAL.SPEC-OBJECT:                    /org/freedesktop/NetworkManager/AccessPoint/1
+GENERAL.VPN:                            no
+GENERAL.DBUS-PATH:                      /org/freedesktop/NetworkManager/ActiveConnection/2
+GENERAL.CON-PATH:                       /org/freedesktop/NetworkManager/Settings/1
+GENERAL.ZONE:                           --
+GENERAL.MASTER-PATH:                    --
+IP4.ADDRESS[1]:                         10.108.1.152/24
+IP4.GATEWAY:                            10.108.1.1
+IP4.ROUTE[1]:                           dst = 0.0.0.0/0, nh = 10.108.1.1, mt = 600
+IP4.ROUTE[2]:                           dst = 10.108.1.0/24, nh = 0.0.0.0, mt = 600
+IP4.ROUTE[3]:                           dst = 169.254.0.0/16, nh = 0.0.0.0, mt = 1000
+IP4.DNS[1]:                             10.108.1.1
+DHCP4.OPTION[1]:                        dhcp_lease_time = 86400
+DHCP4.OPTION[2]:                        domain_name_servers = 10.108.1.1
+DHCP4.OPTION[3]:                        expiry = 1700271518
+DHCP4.OPTION[4]:                        host_name = odroid
+DHCP4.OPTION[5]:                        ip_address = 10.108.1.152
+DHCP4.OPTION[6]:                        next_server = 10.108.1.1
+DHCP4.OPTION[7]:                        requested_broadcast_address = 1
+DHCP4.OPTION[8]:                        requested_domain_name = 1
+DHCP4.OPTION[9]:                        requested_domain_name_servers = 1
+DHCP4.OPTION[10]:                       requested_domain_search = 1
+DHCP4.OPTION[11]:                       requested_host_name = 1
+DHCP4.OPTION[12]:                       requested_interface_mtu = 1
+DHCP4.OPTION[13]:                       requested_ms_classless_static_routes = 1
+DHCP4.OPTION[14]:                       requested_nis_domain = 1
+DHCP4.OPTION[15]:                       requested_nis_servers = 1
+DHCP4.OPTION[16]:                       requested_ntp_servers = 1
+DHCP4.OPTION[17]:                       requested_rfc3442_classless_static_routes = 1
+DHCP4.OPTION[18]:                       requested_root_path = 1
+DHCP4.OPTION[19]:                       requested_routers = 1
+DHCP4.OPTION[20]:                       requested_static_routes = 1
+DHCP4.OPTION[21]:                       requested_subnet_mask = 1
+DHCP4.OPTION[22]:                       requested_time_offset = 1
+DHCP4.OPTION[23]:                       requested_wpad = 1
+DHCP4.OPTION[24]:                       routers = 10.108.1.1
+DHCP4.OPTION[25]:                       subnet_mask = 255.255.255.0
+IP6.ADDRESS[1]:                         fe80::50dc:d25a:e885:8e7d/64
+IP6.GATEWAY:                            --
+IP6.ROUTE[1]:                           dst = fe80::/64, nh = ::, mt = 600
+IP6.ROUTE[2]:                           dst = ff00::/8, nh = ::, mt = 256, table=255
+
+2023-11-17 11:35:25 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:35:25 [ONTIMER] New Command in : 7
+2023-11-17 11:35:25 [ONTIMER] Set Command : 7 (list size = 0)
+2023-11-17 11:35:25 [FUNCTION] Check Connection : mobile_robot_mesh
+2023-11-17 11:35:25 [PROCESS] Start Process : nmcli net con
+2023-11-17 11:35:25 [OUTPUT] 7 : full
+
+2023-11-17 11:35:25 [RETURN] Check Connection : Success mobile_robot_mesh
+2023-11-17 11:35:26 [ONTIMER] New Command in : 3
+2023-11-17 11:35:26 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:26 [FUNCTION] Get Wifi List
+2023-11-17 11:35:26 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:26 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:35:26 [RETURN] Get Wifi List : 0
+2023-11-17 11:35:29 [ONTIMER] New Command in : 3
+2023-11-17 11:35:29 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:29 [FUNCTION] Get Wifi List
+2023-11-17 11:35:29 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:29 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:35:29 [RETURN] Get Wifi List : 0
+2023-11-17 11:35:32 [ONTIMER] New Command in : 3
+2023-11-17 11:35:32 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:32 [FUNCTION] Get Wifi List
+2023-11-17 11:35:32 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:32 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:35:32 [RETURN] Get Wifi List : 0
+2023-11-17 11:35:34 [ONTIMER] New Command in : 7
+2023-11-17 11:35:34 [ONTIMER] Set Command : 7 (list size = 0)
+2023-11-17 11:35:34 [FUNCTION] Check Connection : mobile_robot_mesh
+2023-11-17 11:35:34 [PROCESS] Start Process : nmcli net con
+2023-11-17 11:35:34 [OUTPUT] 7 : full
+
+2023-11-17 11:35:34 [RETURN] Check Connection : Success mobile_robot_mesh
+2023-11-17 11:35:35 [ONTIMER] New Command in : 3
+2023-11-17 11:35:35 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:35 [FUNCTION] Get Wifi List
+2023-11-17 11:35:35 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:35 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+
+2023-11-17 11:35:35 [RETURN] Get Wifi List : 1
+2023-11-17 11:35:35 [OUTPUT] 3 :         EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  80      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  77      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  74      ▂▄▆_  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  71      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  65      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  65      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  52      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  37      ▂▄__  --        
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  30      ▂___  WPA2      
+        28:AC:67:0D:A5:88  Rainbow1F_Conference       Infra  1     270 Mbit/s  29      ▂___  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   27      ▂___  WPA2      
+
+2023-11-17 11:35:35 [RETURN] Get Wifi List : 8
+2023-11-17 11:35:37 [ONTIMER] New Command in : 3
+2023-11-17 11:35:37 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:37 [FUNCTION] Get Wifi List
+2023-11-17 11:35:37 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:37 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:35:37 [RETURN] Get Wifi List : 0
+2023-11-17 11:35:40 [ONTIMER] New Command in : 3
+2023-11-17 11:35:40 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:40 [FUNCTION] Get Wifi List
+2023-11-17 11:35:40 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:40 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:35:40 [RETURN] Get Wifi List : 0
+2023-11-17 11:35:43 [ONTIMER] New Command in : 3
+2023-11-17 11:35:43 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:43 [FUNCTION] Get Wifi List
+2023-11-17 11:35:43 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:43 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+
+2023-11-17 11:35:43 [RETURN] Get Wifi List : 1
+2023-11-17 11:35:43 [OUTPUT] 3 :         EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  80      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  77      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  74      ▂▄▆_  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  71      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  65      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  65      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  52      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  37      ▂▄__  --        
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  30      ▂___  WPA2      
+        28:AC:67:0D:A5:88  Rainbow1F_Conference       Infra  1     270 Mbit/s  29      ▂___  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   27      ▂___  WPA2      
+
+2023-11-17 11:35:43 [RETURN] Get Wifi List : 8
+2023-11-17 11:35:46 [ONTIMER] New Command in : 3
+2023-11-17 11:35:46 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:46 [FUNCTION] Get Wifi List
+2023-11-17 11:35:46 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:46 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:35:46 [RETURN] Get Wifi List : 0
+2023-11-17 11:35:49 [ONTIMER] New Command in : 3
+2023-11-17 11:35:49 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:49 [FUNCTION] Get Wifi List
+2023-11-17 11:35:49 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:49 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:35:49 [RETURN] Get Wifi List : 0
+2023-11-17 11:35:52 [ONTIMER] New Command in : 3
+2023-11-17 11:35:52 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:52 [FUNCTION] Get Wifi List
+2023-11-17 11:35:52 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:52 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:35:52 [RETURN] Get Wifi List : 0
+2023-11-17 11:35:55 [ONTIMER] New Command in : 7
+2023-11-17 11:35:55 [ONTIMER] Set Command : 7 (list size = 0)
+2023-11-17 11:35:55 [FUNCTION] Check Connection : mobile_robot_mesh
+2023-11-17 11:35:55 [PROCESS] Start Process : nmcli net con
+2023-11-17 11:35:55 [OUTPUT] 7 : full
+
+2023-11-17 11:35:55 [RETURN] Check Connection : Success mobile_robot_mesh
+2023-11-17 11:35:55 [ONTIMER] New Command in : 3
+2023-11-17 11:35:55 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:55 [FUNCTION] Get Wifi List
+2023-11-17 11:35:55 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:59 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  85      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  80      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  77      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  74      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  65      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  65      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  52      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  37      ▂▄__  --        
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  30      ▂___  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   27      ▂___  WPA2      
+
+2023-11-17 11:35:59 [RETURN] Get Wifi List : 7
+2023-11-17 11:35:59 [ONTIMER] New Command in : 3
+2023-11-17 11:35:59 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:35:59 [FUNCTION] Get Wifi List
+2023-11-17 11:35:59 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:35:59 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:35:59 [RETURN] Get Wifi List : 0
+2023-11-17 11:36:00 [ONTIMER] New Command in : 3
+2023-11-17 11:36:00 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:00 [FUNCTION] Get Wifi List
+2023-11-17 11:36:00 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:01 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:36:01 [RETURN] Get Wifi List : 0
+2023-11-17 11:36:04 [ONTIMER] New Command in : 3
+2023-11-17 11:36:04 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:04 [FUNCTION] Get Wifi List
+2023-11-17 11:36:04 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:04 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+
+2023-11-17 11:36:04 [RETURN] Get Wifi List : 1
+2023-11-17 11:36:04 [OUTPUT] 3 :         78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  72      ▂▄▆_  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  71      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  67      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  67      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  65      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  65      ▂▄▆_  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  52      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  40      ▂▄__  --        
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  40      ▂▄__  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   37      ▂▄__  WPA2      
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  37      ▂▄__  WPA2      
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+
+2023-11-17 11:36:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:07 [ONTIMER] New Command in : 3
+2023-11-17 11:36:07 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:07 [FUNCTION] Get Wifi List
+2023-11-17 11:36:07 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:07 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:36:07 [RETURN] Get Wifi List : 0
+2023-11-17 11:36:10 [ONTIMER] New Command in : 3
+2023-11-17 11:36:10 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:10 [FUNCTION] Get Wifi List
+2023-11-17 11:36:10 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:10 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:36:10 [RETURN] Get Wifi List : 0
+2023-11-17 11:36:10 [OUTPUT] 3 :         E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  72      ▂▄▆_  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  71      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  67      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  67      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  65      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  65      ▂▄▆_  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  52      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  40      ▂▄__  --        
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  40      ▂▄__  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   37      ▂▄__  WPA2      
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  37      ▂▄__  WPA2      
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+
+2023-11-17 11:36:10 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:13 [ONTIMER] New Command in : 3
+2023-11-17 11:36:13 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:13 [FUNCTION] Get Wifi List
+2023-11-17 11:36:13 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:13 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:36:13 [RETURN] Get Wifi List : 0
+2023-11-17 11:36:16 [ONTIMER] New Command in : 3
+2023-11-17 11:36:16 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:16 [FUNCTION] Get Wifi List
+2023-11-17 11:36:16 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:16 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:36:16 [RETURN] Get Wifi List : 0
+2023-11-17 11:36:19 [ONTIMER] New Command in : 3
+2023-11-17 11:36:19 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:19 [FUNCTION] Get Wifi List
+2023-11-17 11:36:19 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:19 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:36:19 [RETURN] Get Wifi List : 0
+2023-11-17 11:36:22 [ONTIMER] New Command in : 3
+2023-11-17 11:36:22 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:22 [FUNCTION] Get Wifi List
+2023-11-17 11:36:22 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:22 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:36:22 [RETURN] Get Wifi List : 0
+2023-11-17 11:36:25 [ONTIMER] New Command in : 3
+2023-11-17 11:36:25 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:25 [FUNCTION] Get Wifi List
+2023-11-17 11:36:25 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:25 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:36:25 [RETURN] Get Wifi List : 0
+2023-11-17 11:36:28 [ONTIMER] New Command in : 3
+2023-11-17 11:36:28 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:28 [FUNCTION] Get Wifi List
+2023-11-17 11:36:28 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:28 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:36:28 [RETURN] Get Wifi List : 0
+2023-11-17 11:36:31 [ONTIMER] New Command in : 3
+2023-11-17 11:36:31 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:31 [FUNCTION] Get Wifi List
+2023-11-17 11:36:31 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:35 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  85      ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  72      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  67      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  67      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  65      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  65      ▂▄▆_  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  52      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  40      ▂▄__  --        
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  40      ▂▄__  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   37      ▂▄__  WPA2      
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  37      ▂▄__  WPA2      
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+
+2023-11-17 11:36:35 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:35 [ONTIMER] New Command in : 3
+2023-11-17 11:36:35 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:35 [FUNCTION] Get Wifi List
+2023-11-17 11:36:35 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:35 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:36:35 [RETURN] Get Wifi List : 0
+2023-11-17 11:36:37 [ONTIMER] New Command in : 3
+2023-11-17 11:36:37 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:37 [FUNCTION] Get Wifi List
+2023-11-17 11:36:37 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:37 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+
+2023-11-17 11:36:37 [RETURN] Get Wifi List : 0
+2023-11-17 11:36:40 [ONTIMER] New Command in : 3
+2023-11-17 11:36:40 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:40 [FUNCTION] Get Wifi List
+2023-11-17 11:36:40 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:40 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+
+2023-11-17 11:36:40 [RETURN] Get Wifi List : 1
+2023-11-17 11:36:40 [OUTPUT] 3 :         EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  80      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  72      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  69      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  62      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  37      ▂▄__  --        
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   30      ▂___  WPA2      
+
+2023-11-17 11:36:40 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:47 [CONSTRUCTOR] SharedMemory is already exist. attach success.
+2023-11-17 11:36:47 [CONSTRUCTOR] SharedMemory(Return) is already exist. attach success
+2023-11-17 11:36:47 [CONSTRUCTOR] SharedMemory(Return) Clear
+2023-11-17 11:36:47 [CONSTRUCTOR] SharedMemory(WifiList) is already exist. attach success
+2023-11-17 11:36:47 [CONSTRUCTOR] SharedMemory(WifiList) Clear
+2023-11-17 11:36:47 [ONTIMER] New Command in : 3
+2023-11-17 11:36:47 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:47 [FUNCTION] Get Wifi List
+2023-11-17 11:36:47 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:47 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  80      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  73      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  72      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  69      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  62      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  37      ▂▄__  --        
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   30      ▂___  WPA2      
+
+2023-11-17 11:36:47 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [ONTIMER] New Command in : 3
+2023-11-17 11:36:49 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:49 [FUNCTION] Get Wifi List
+2023-11-17 11:36:49 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:49 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  80      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  73      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  72      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  69      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  62      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  37      ▂▄__  --        
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   30      ▂___  WPA2      
+
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [OUTPUT] 3 : 
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [OUTPUT] 3 : 
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [OUTPUT] 3 : 
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [OUTPUT] 3 : 
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [OUTPUT] 3 : 
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [OUTPUT] 3 : 
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [OUTPUT] 3 : 
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [OUTPUT] 3 : 
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [OUTPUT] 3 : 
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [OUTPUT] 3 : 
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [OUTPUT] 3 : 
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [OUTPUT] 3 : 
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [OUTPUT] 3 : 
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [OUTPUT] 3 : 
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [OUTPUT] 3 : 
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [OUTPUT] 3 : 
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:49 [OUTPUT] 3 : 
+2023-11-17 11:36:49 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [ONTIMER] New Command in : 3
+2023-11-17 11:36:52 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:52 [FUNCTION] Get Wifi List
+2023-11-17 11:36:52 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:52 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  80      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  73      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  72      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  69      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  62      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  37      ▂▄__  --        
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   30      ▂___  WPA2      
+
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:52 [OUTPUT] 3 : 
+2023-11-17 11:36:52 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [ONTIMER] New Command in : 3
+2023-11-17 11:36:55 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:55 [FUNCTION] Get Wifi List
+2023-11-17 11:36:55 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:55 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  80      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  74      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  72      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  69      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  62      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  37      ▂▄__  --        
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   30      ▂___  WPA2      
+
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:55 [OUTPUT] 3 : 
+2023-11-17 11:36:55 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [ONTIMER] New Command in : 3
+2023-11-17 11:36:58 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:36:58 [FUNCTION] Get Wifi List
+2023-11-17 11:36:58 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:36:58 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  80      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  74      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  72      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  69      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  62      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  37      ▂▄__  --        
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   30      ▂___  WPA2      
+
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:36:58 [OUTPUT] 3 : 
+2023-11-17 11:36:58 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [ONTIMER] New Command in : 3
+2023-11-17 11:37:01 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:37:01 [FUNCTION] Get Wifi List
+2023-11-17 11:37:01 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:37:01 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  80      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  73      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  72      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  69      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  62      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  37      ▂▄__  --        
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   30      ▂___  WPA2      
+
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:01 [OUTPUT] 3 : 
+2023-11-17 11:37:01 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [ONTIMER] New Command in : 3
+2023-11-17 11:37:04 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:37:04 [FUNCTION] Get Wifi List
+2023-11-17 11:37:04 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:37:04 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  80      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  73      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  72      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  69      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  62      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  37      ▂▄__  --        
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   30      ▂___  WPA2      
+
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:04 [OUTPUT] 3 : 
+2023-11-17 11:37:04 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:18 [CONSTRUCTOR] SharedMemory is already exist. attach success.
+2023-11-17 11:37:18 [CONSTRUCTOR] SharedMemory(Return) is already exist. attach success
+2023-11-17 11:37:18 [CONSTRUCTOR] SharedMemory(Return) Clear
+2023-11-17 11:37:18 [CONSTRUCTOR] SharedMemory(WifiList) is already exist. attach success
+2023-11-17 11:37:18 [CONSTRUCTOR] SharedMemory(WifiList) Clear
+2023-11-17 11:37:34 [ONTIMER] New Command in : 3
+2023-11-17 11:37:34 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:37:34 [FUNCTION] Get Wifi List
+2023-11-17 11:37:34 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:37:39 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  80      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  72      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  69      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  62      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  37      ▂▄__  --        
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   30      ▂___  WPA2      
+
+2023-11-17 11:37:39 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:39 [ONTIMER] New Command in : 2
+2023-11-17 11:37:39 [ONTIMER] Set Command : 2 (list size = 0)
+2023-11-17 11:37:39 [FUNCTION] Get System Volume
+2023-11-17 11:37:39 [PROCESS] Start Process : amixer -D pulse sget Master
+2023-11-17 11:37:39 [OUTPUT] 2 : Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 45854 [70%] [on]
+  Front Right: Playback 45854 [70%] [on]
+
+2023-11-17 11:37:39 [RETURN] Get System Volume : 70
+2023-11-17 11:37:39 [ONTIMER] New Command in : 4
+2023-11-17 11:37:39 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-17 11:37:39 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-17 11:37:39 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-17 11:37:39 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        667c715b-e898-4beb-99f1-fcd06db3f793
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlan0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700188382
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9A,E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FC,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+802-11-wireless-security.key-mgmt:      wpa-psk
+802-11-wireless-security.wep-tx-keyidx: 0
+802-11-wireless-security.auth-alg:      open
+802-11-wireless-security.proto:         --
+802-11-wireless-security.pairwise:      --
+802-11-wireless-security.group:         --
+802-11-wireless-security.pmf:           0 (default)
+802-11-wireless-security.leap-username: --
+802-11-wireless-security.wep-key0:      <hidden>
+802-11-wireless-security.wep-key1:      <hidden>
+802-11-wireless-security.wep-key2:      <hidden>
+802-11-wireless-security.wep-key3:      <hidden>
+802-11-wireless-security.wep-key-flags: 0 (none)
+802-11-wireless-security.wep-key-type:  unknown
+802-11-wireless-security.psk:           <hidden>
+802-11-wireless-security.psk-flags:     0 (none)
+802-11-wireless-security.leap-password: <hidden>
+802-11-wireless-security.leap-password-flags:0 (none)
+802-11-wireless-security.wps-method:    0x0 (default)
+802-11-wireless-security.fils:          0 (default)
+ipv4.method:                            auto
+ipv4.dns:                               --
+ipv4.dns-search:                        --
+ipv4.dns-options:                       --
+ipv4.dns-priority:                      0
+ipv4.addresses:                         --
+ipv4.gateway:                           --
+ipv4.routes:                            --
+ipv4.route-metric:                      -1
+ipv4.route-table:                       0 (unspec)
+ipv4.routing-rules:                     --
+ipv4.ignore-auto-routes:                no
+ipv4.ignore-auto-dns:                   no
+ipv4.dhcp-client-id:                    --
+ipv4.dhcp-iaid:                         --
+ipv4.dhcp-timeout:                      0 (default)
+ipv4.dhcp-send-hostname:                yes
+ipv4.dhcp-hostname:                     --
+ipv4.dhcp-fqdn:                         --
+ipv4.dhcp-hostname-flags:               0x0 (none)
+ipv4.never-default:                     no
+ipv4.may-fail:                          yes
+ipv4.dad-timeout:                       -1 (default)
+ipv6.method:                            auto
+ipv6.dns:                               --
+ipv6.dns-search:                        --
+ipv6.dns-options:                       --
+ipv6.dns-priority:                      0
+ipv6.addresses:                         --
+ipv6.gateway:                           --
+ipv6.routes:                            --
+ipv6.route-metric:                      -1
+ipv6.route-table:                       0 (unspec)
+ipv6.routing-rules:                     --
+ipv6.ignore-auto-routes:                no
+ipv6.ignore-auto-dns:                   no
+ipv6.never-default:                     no
+ipv6.may-fail:                          yes
+ipv6.ip6-privacy:                       -1 (unknown)
+ipv6.addr-gen-mode:                     stable-privacy
+ipv6.ra-timeout:                        0 (default)
+ipv6.dhcp-duid:                         --
+ipv6.dhcp-iaid:                         --
+ipv6.dhcp-timeout:                      0 (default)
+ipv6.dhcp-send-hostname:                yes
+ipv6.dhcp-hostname:                     --
+ipv6.dhcp-hostname-flags:               0x0 (none)
+ipv6.token:                             --
+proxy.method:                           none
+proxy.browser-only:                     no
+proxy.pac-url:                          --
+proxy.pac-script:                       --
+GENERAL.NAME:                           mobile_robot_mesh
+GENERAL.UUID:                           667c715b-e898-4beb-99f1-fcd06db3f793
+GENERAL.DEVICES:                        wlan0
+GENERAL.IP-IFACE:                       wlan0
+GENERAL.STATE:                          activated
+GENERAL.DEFAULT:                        no
+GENERAL.DEFAULT6:                       no
+GENERAL.SPEC-OBJECT:                    /org/freedesktop/NetworkManager/AccessPoint/1
+GENERAL.VPN:                            no
+GENERAL.DBUS-PATH:                      /org/freedesktop/NetworkManager/ActiveConnection/2
+GENERAL.CON-PATH:                       /org/freedesktop/NetworkManager/Settings/1
+GENERAL.ZONE:                           --
+GENERAL.MASTER-PATH:                    --
+IP4.ADDRESS[1]:                         10.108.1.152/24
+IP4.GATEWAY:                            10.108.1.1
+IP4.ROUTE[1]:                           dst = 0.0.0.0/0, nh = 10.108.1.1, mt = 600
+IP4.ROUTE[2]:                           dst = 10.108.1.0/24, nh = 0.0.0.0, mt = 600
+IP4.ROUTE[3]:                           dst = 169.254.0.0/16, nh = 0.0.0.0, mt = 1000
+IP4.DNS[1]:                             10.108.1.1
+DHCP4.OPTION[1]:                        dhcp_lease_time = 86400
+DHCP4.OPTION[2]:                        domain_name_servers = 10.108.1.1
+DHCP4.OPTION[3]:                        expiry = 1700271518
+DHCP4.OPTION[4]:                        host_name = odroid
+DHCP4.OPTION[5]:                        ip_address = 10.108.1.152
+DHCP4.OPTION[6]:                        next_server = 10.108.1.1
+DHCP4.OPTION[7]:                        requested_broadcast_address = 1
+DHCP4.OPTION[8]:                        requested_domain_name = 1
+DHCP4.OPTION[9]:                        requested_domain_name_servers = 1
+DHCP4.OPTION[10]:                       requested_domain_search = 1
+DHCP4.OPTION[11]:                       requested_host_name = 1
+DHCP4.OPTION[12]:                       requested_interface_mtu = 1
+DHCP4.OPTION[13]:                       requested_ms_classless_static_routes = 1
+DHCP4.OPTION[14]:                       requested_nis_domain = 1
+DHCP4.OPTION[15]:                       requested_nis_servers = 1
+DHCP4.OPTION[16]:                       requested_ntp_servers = 1
+DHCP4.OPTION[17]:                       requested_rfc3442_classless_static_routes = 1
+DHCP4.OPTION[18]:                       requested_root_path = 1
+DHCP4.OPTION[19]:                       requested_routers = 1
+DHCP4.OPTION[20]:                       requested_static_routes = 1
+DHCP4.OPTION[21]:                       requested_subnet_mask = 1
+DHCP4.OPTION[22]:                       requested_time_offset = 1
+DHCP4.OPTION[23]:                       requested_wpad = 1
+DHCP4.OPTION[24]:                       routers = 10.108.1.1
+DHCP4.OPTION[25]:                       subnet_mask = 255.255.255.0
+IP6.ADDRESS[1]:                         fe80::50dc:d25a:e885:8e7d/64
+IP6.GATEWAY:                            --
+IP6.ROUTE[1]:                           dst = fe80::/64, nh = ::, mt = 600
+IP6.ROUTE[2]:                           dst = ff00::/8, nh = ::, mt = 256, table=255
+
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [OUTPUT] 4 : 
+2023-11-17 11:37:39 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 11:37:39 [ONTIMER] New Command in : 7
+2023-11-17 11:37:39 [ONTIMER] Set Command : 7 (list size = 0)
+2023-11-17 11:37:39 [FUNCTION] Check Connection : mobile_robot_mesh
+2023-11-17 11:37:39 [PROCESS] Start Process : nmcli net con
+2023-11-17 11:37:39 [OUTPUT] 7 : full
+
+2023-11-17 11:37:39 [RETURN] Check Connection : Success mobile_robot_mesh
+2023-11-17 11:37:41 [ONTIMER] New Command in : 7
+2023-11-17 11:37:41 [ONTIMER] Set Command : 7 (list size = 0)
+2023-11-17 11:37:41 [FUNCTION] Check Connection : mobile_robot_mesh
+2023-11-17 11:37:41 [PROCESS] Start Process : nmcli net con
+2023-11-17 11:37:41 [OUTPUT] 7 : full
+
+2023-11-17 11:37:41 [RETURN] Check Connection : Success mobile_robot_mesh
+2023-11-17 11:37:47 [ONTIMER] New Command in : 3
+2023-11-17 11:37:47 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:37:47 [FUNCTION] Get Wifi List
+2023-11-17 11:37:47 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:37:47 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  79      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  74      ▂▄▆_  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  72      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  69      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  67      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  64      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  64      ▂▄▆_  WPA2      
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  59      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  37      ▂▄__  --        
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   30      ▂___  WPA2      
+
+2023-11-17 11:37:47 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:47 [OUTPUT] 3 : 
+2023-11-17 11:37:47 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:47 [OUTPUT] 3 : 
+2023-11-17 11:37:47 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:47 [OUTPUT] 3 : 
+2023-11-17 11:37:47 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:47 [OUTPUT] 3 : 
+2023-11-17 11:37:47 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:47 [OUTPUT] 3 : 
+2023-11-17 11:37:47 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:47 [OUTPUT] 3 : 
+2023-11-17 11:37:47 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:47 [OUTPUT] 3 : 
+2023-11-17 11:37:47 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:47 [OUTPUT] 3 : 
+2023-11-17 11:37:47 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:47 [OUTPUT] 3 : 
+2023-11-17 11:37:47 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:47 [OUTPUT] 3 : 
+2023-11-17 11:37:47 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:47 [OUTPUT] 3 : 
+2023-11-17 11:37:47 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:47 [OUTPUT] 3 : 
+2023-11-17 11:37:47 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:47 [OUTPUT] 3 : 
+2023-11-17 11:37:47 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [ONTIMER] New Command in : 3
+2023-11-17 11:37:50 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:37:50 [FUNCTION] Get Wifi List
+2023-11-17 11:37:50 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:37:50 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  79      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  74      ▂▄▆_  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  72      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  69      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  67      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  64      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  64      ▂▄▆_  WPA2      
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  59      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  37      ▂▄__  --        
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   30      ▂___  WPA2      
+
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:50 [OUTPUT] 3 : 
+2023-11-17 11:37:50 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [ONTIMER] New Command in : 3
+2023-11-17 11:37:53 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:37:53 [FUNCTION] Get Wifi List
+2023-11-17 11:37:53 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:37:53 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  79      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  74      ▂▄▆_  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  72      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  69      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  67      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  64      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  64      ▂▄▆_  WPA2      
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  59      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  37      ▂▄__  --        
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   30      ▂___  WPA2      
+
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:53 [OUTPUT] 3 : 
+2023-11-17 11:37:53 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [ONTIMER] New Command in : 3
+2023-11-17 11:37:56 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 11:37:56 [FUNCTION] Get Wifi List
+2023-11-17 11:37:56 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 11:37:56 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  87      ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  79      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  74      ▂▄▆_  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  72      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  72      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  69      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  67      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  64      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  64      ▂▄▆_  WPA2      
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  59      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  37      ▂▄__  --        
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  30      ▂___  WPA2      
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   30      ▂___  WPA2      
+
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 11:37:56 [OUTPUT] 3 : 
+2023-11-17 11:37:56 [RETURN] Get Wifi List : 7
+2023-11-17 17:09:17 [CONSTRUCTOR] SharedMemory is already exist. attach success.
+2023-11-17 17:09:17 [CONSTRUCTOR] SharedMemory(Return) is already exist. attach success
+2023-11-17 17:09:17 [CONSTRUCTOR] SharedMemory(Return) Clear
+2023-11-17 17:09:17 [CONSTRUCTOR] SharedMemory(WifiList) is already exist. attach success
+2023-11-17 17:09:17 [CONSTRUCTOR] SharedMemory(WifiList) Clear
+2023-11-17 17:09:55 [CONSTRUCTOR] SharedMemory is already exist. attach success.
+2023-11-17 17:09:55 [CONSTRUCTOR] SharedMemory(Return) is already exist. attach success
+2023-11-17 17:09:55 [CONSTRUCTOR] SharedMemory(Return) Clear
+2023-11-17 17:09:55 [CONSTRUCTOR] SharedMemory(WifiList) is already exist. attach success
+2023-11-17 17:09:55 [CONSTRUCTOR] SharedMemory(WifiList) Clear
+2023-11-17 17:10:35 [ONTIMER] New Command in : 3
+2023-11-17 17:10:35 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 17:10:35 [FUNCTION] Get Wifi List
+2023-11-17 17:10:35 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 17:10:39 [OUTPUT] 3 : IN-USE  BSSID              SSID               MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh  Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                 Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh  Infra  8     270 Mbit/s  90      ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                 Infra  8     270 Mbit/s  90      ▂▄▆█  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh  Infra  36    270 Mbit/s  87      ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh  Infra  44    270 Mbit/s  80      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking      Infra  2     130 Mbit/s  77      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                 Infra  2     130 Mbit/s  77      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2         Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+        D8:EC:5E:DD:57:70  order_picking      Infra  161   540 Mbit/s  70      ▂▄▆_  WPA2      
+        E8:9F:80:DD:50:00  mobile_robot_mesh  Infra  149   540 Mbit/s  69      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6F  order_picking      Infra  36    270 Mbit/s  67      ▂▄▆_  WPA2      
+        58:86:94:7E:D6:48  Rainbow1F_Rest     Infra  5     270 Mbit/s  64      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G      Infra  44    540 Mbit/s  60      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh  Infra  161   540 Mbit/s  55      ▂▄__  WPA2      
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh  Infra  13    130 Mbit/s  42      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime             Infra  1     270 Mbit/s  37      ▂▄__  --        
+
+2023-11-17 17:10:39 [RETURN] Get Wifi List : 6
+2023-11-17 17:10:40 [ONTIMER] New Command in : 2
+2023-11-17 17:10:40 [ONTIMER] Set Command : 2 (list size = 0)
+2023-11-17 17:10:40 [FUNCTION] Get System Volume
+2023-11-17 17:10:40 [PROCESS] Start Process : amixer -D pulse sget Master
+2023-11-17 17:10:40 [OUTPUT] 2 : Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 45854 [70%] [on]
+  Front Right: Playback 45854 [70%] [on]
+
+2023-11-17 17:10:40 [RETURN] Get System Volume : 70
+2023-11-17 17:10:40 [ONTIMER] New Command in : 4
+2023-11-17 17:10:40 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-17 17:10:40 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-17 17:10:40 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-17 17:10:40 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        667c715b-e898-4beb-99f1-fcd06db3f793
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlan0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700208482
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9A,E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FC,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+802-11-wireless-security.key-mgmt:      wpa-psk
+802-11-wireless-security.wep-tx-keyidx: 0
+802-11-wireless-security.auth-alg:      open
+802-11-wireless-security.proto:         --
+802-11-wireless-security.pairwise:      --
+802-11-wireless-security.group:         --
+802-11-wireless-security.pmf:           0 (default)
+802-11-wireless-security.leap-username: --
+802-11-wireless-security.wep-key0:      <hidden>
+802-11-wireless-security.wep-key1:      <hidden>
+802-11-wireless-security.wep-key2:      <hidden>
+802-11-wireless-security.wep-key3:      <hidden>
+802-11-wireless-security.wep-key-flags: 0 (none)
+802-11-wireless-security.wep-key-type:  unknown
+802-11-wireless-security.psk:           <hidden>
+802-11-wireless-security.psk-flags:     0 (none)
+802-11-wireless-security.leap-password: <hidden>
+802-11-wireless-security.leap-password-flags:0 (none)
+802-11-wireless-security.wps-method:    0x0 (default)
+802-11-wireless-security.fils:          0 (default)
+ipv4.method:                            auto
+ipv4.dns:                               --
+ipv4.dns-search:                        --
+ipv4.dns-options:                       --
+ipv4.dns-priority:                      0
+ipv4.addresses:                         --
+ipv4.gateway:                           --
+ipv4.routes:                            --
+ipv4.route-metric:                      -1
+ipv4.route-table:                       0 (unspec)
+ipv4.routing-rules:                     --
+ipv4.ignore-auto-routes:                no
+ipv4.ignore-auto-dns:                   no
+ipv4.dhcp-client-id:                    --
+ipv4.dhcp-iaid:                         --
+ipv4.dhcp-timeout:                      0 (default)
+ipv4.dhcp-send-hostname:                yes
+ipv4.dhcp-hostname:                     --
+ipv4.dhcp-fqdn:                         --
+ipv4.dhcp-hostname-flags:               0x0 (none)
+ipv4.never-default:                     no
+ipv4.may-fail:                          yes
+ipv4.dad-timeout:                       -1 (default)
+ipv6.method:                            auto
+ipv6.dns:                               --
+ipv6.dns-search:                        --
+ipv6.dns-options:                       --
+ipv6.dns-priority:                      0
+ipv6.addresses:                         --
+ipv6.gateway:                           --
+ipv6.routes:                            --
+ipv6.route-metric:                      -1
+ipv6.route-table:                       0 (unspec)
+ipv6.routing-rules:                     --
+ipv6.ignore-auto-routes:                no
+ipv6.ignore-auto-dns:                   no
+ipv6.never-default:                     no
+ipv6.may-fail:                          yes
+ipv6.ip6-privacy:                       -1 (unknown)
+ipv6.addr-gen-mode:                     stable-privacy
+ipv6.ra-timeout:                        0 (default)
+ipv6.dhcp-duid:                         --
+ipv6.dhcp-iaid:                         --
+ipv6.dhcp-timeout:                      0 (default)
+ipv6.dhcp-send-hostname:                yes
+ipv6.dhcp-hostname:                     --
+ipv6.dhcp-hostname-flags:               0x0 (none)
+ipv6.token:                             --
+proxy.method:                           none
+proxy.browser-only:                     no
+proxy.pac-url:                          --
+proxy.pac-script:                       --
+GENERAL.NAME:                           mobile_robot_mesh
+GENERAL.UUID:                           667c715b-e898-4beb-99f1-fcd06db3f793
+GENERAL.DEVICES:                        wlan0
+GENERAL.IP-IFACE:                       wlan0
+GENERAL.STATE:                          activated
+GENERAL.DEFAULT:                        no
+GENERAL.DEFAULT6:                       no
+GENERAL.SPEC-OBJECT:                    /org/freedesktop/NetworkManager/AccessPoint/1
+GENERAL.VPN:                            no
+GENERAL.DBUS-PATH:                      /org/freedesktop/NetworkManager/ActiveConnection/2
+GENERAL.CON-PATH:                       /org/freedesktop/NetworkManager/Settings/1
+GENERAL.ZONE:                           --
+GENERAL.MASTER-PATH:                    --
+IP4.ADDRESS[1]:                         10.108.1.152/24
+IP4.GATEWAY:                            10.108.1.1
+IP4.ROUTE[1]:                           dst = 0.0.0.0/0, nh = 10.108.1.1, mt = 600
+IP4.ROUTE[2]:                           dst = 10.108.1.0/24, nh = 0.0.0.0, mt = 600
+IP4.ROUTE[3]:                           dst = 169.254.0.0/16, nh = 0.0.0.0, mt = 1000
+IP4.DNS[1]:                             10.108.1.1
+DHCP4.OPTION[1]:                        dhcp_lease_time = 86400
+DHCP4.OPTION[2]:                        domain_name_servers = 10.108.1.1
+DHCP4.OPTION[3]:                        expiry = 1700271518
+DHCP4.OPTION[4]:                        host_name = odroid
+DHCP4.OPTION[5]:                        ip_address = 10.108.1.152
+DHCP4.OPTION[6]:                        next_server = 10.108.1.1
+DHCP4.OPTION[7]:                        requested_broadcast_address = 1
+DHCP4.OPTION[8]:                        requested_domain_name = 1
+DHCP4.OPTION[9]:                        requested_domain_name_servers = 1
+DHCP4.OPTION[10]:                       requested_domain_search = 1
+DHCP4.OPTION[11]:                       requested_host_name = 1
+DHCP4.OPTION[12]:                       requested_interface_mtu = 1
+DHCP4.OPTION[13]:                       requested_ms_classless_static_routes = 1
+DHCP4.OPTION[14]:                       requested_nis_domain = 1
+DHCP4.OPTION[15]:                       requested_nis_servers = 1
+DHCP4.OPTION[16]:                       requested_ntp_servers = 1
+DHCP4.OPTION[17]:                       requested_rfc3442_classless_static_routes = 1
+DHCP4.OPTION[18]:                       requested_root_path = 1
+DHCP4.OPTION[19]:                       requested_routers = 1
+DHCP4.OPTION[20]:                       requested_static_routes = 1
+DHCP4.OPTION[21]:                       requested_subnet_mask = 1
+DHCP4.OPTION[22]:                       requested_time_offset = 1
+DHCP4.OPTION[23]:                       requested_wpad = 1
+DHCP4.OPTION[24]:                       routers = 10.108.1.1
+DHCP4.OPTION[25]:                       subnet_mask = 255.255.255.0
+IP6.ADDRESS[1]:                         fe80::50dc:d25a:e885:8e7d/64
+IP6.GATEWAY:                            --
+IP6.ROUTE[1]:                           dst = fe80::/64, nh = ::, mt = 600
+IP6.ROUTE[2]:                           dst = ff00::/8, nh = ::, mt = 256, table=255
+
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [OUTPUT] 4 : 
+2023-11-17 17:10:40 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:10:40 [ONTIMER] New Command in : 7
+2023-11-17 17:10:40 [ONTIMER] Set Command : 7 (list size = 0)
+2023-11-17 17:10:40 [FUNCTION] Check Connection : mobile_robot_mesh
+2023-11-17 17:10:40 [PROCESS] Start Process : nmcli net con
+2023-11-17 17:10:40 [OUTPUT] 7 : full
+
+2023-11-17 17:10:40 [RETURN] Check Connection : Success mobile_robot_mesh
+2023-11-17 17:20:39 [ONTIMER] New Command in : 7
+2023-11-17 17:20:39 [ONTIMER] Set Command : 7 (list size = 0)
+2023-11-17 17:20:39 [FUNCTION] Check Connection : mobile_robot_mesh
+2023-11-17 17:20:39 [PROCESS] Start Process : nmcli net con
+2023-11-17 17:20:40 [OUTPUT] 7 : full
+
+2023-11-17 17:20:40 [RETURN] Check Connection : Success mobile_robot_mesh
+2023-11-17 17:47:53 [ONTIMER] New Command in : 7
+2023-11-17 17:47:53 [ONTIMER] Set Command : 7 (list size = 0)
+2023-11-17 17:47:53 [FUNCTION] Check Connection : mobile_robot_mesh
+2023-11-17 17:47:53 [PROCESS] Start Process : nmcli net con
+2023-11-17 17:47:53 [OUTPUT] 7 : full
+
+2023-11-17 17:47:53 [RETURN] Check Connection : Success mobile_robot_mesh
+2023-11-17 17:47:54 [ONTIMER] New Command in : 7
+2023-11-17 17:47:54 [ONTIMER] Set Command : 7 (list size = 0)
+2023-11-17 17:47:54 [FUNCTION] Check Connection : mobile_robot_mesh
+2023-11-17 17:47:54 [PROCESS] Start Process : nmcli net con
+2023-11-17 17:47:54 [OUTPUT] 7 : full
+
+2023-11-17 17:47:54 [RETURN] Check Connection : Success mobile_robot_mesh
+2023-11-17 17:47:55 [ONTIMER] New Command in : 7
+2023-11-17 17:47:55 [ONTIMER] Set Command : 7 (list size = 0)
+2023-11-17 17:47:55 [FUNCTION] Check Connection : mobile_robot_mesh
+2023-11-17 17:47:55 [PROCESS] Start Process : nmcli net con
+2023-11-17 17:47:55 [OUTPUT] 7 : full
+
+2023-11-17 17:47:55 [RETURN] Check Connection : Success mobile_robot_mesh
+2023-11-17 17:47:56 [ONTIMER] New Command in : 3
+2023-11-17 17:47:56 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 17:47:56 [FUNCTION] Get Wifi List
+2023-11-17 17:47:56 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 17:48:01 [OUTPUT] 3 : IN-USE  BSSID              SSID                  MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh     Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                    Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                    Infra  8     270 Mbit/s  94      ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh     Infra  8     270 Mbit/s  92      ▂▄▆█  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh     Infra  36    270 Mbit/s  87      ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh     Infra  44    270 Mbit/s  79      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                    Infra  2     130 Mbit/s  77      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2            Infra  13    260 Mbit/s  77      ▂▄▆_  WPA1 WPA2 
+        D8:EC:5E:DD:57:70  order_picking         Infra  161   540 Mbit/s  75      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking         Infra  2     130 Mbit/s  70      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6F  order_picking         Infra  36    270 Mbit/s  65      ▂▄▆_  WPA2      
+        E8:9F:80:DD:50:00  mobile_robot_mesh     Infra  149   540 Mbit/s  65      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh     Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        EE:9F:80:DD:4F:9A  --                    Infra  13    130 Mbit/s  60      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G         Infra  44    540 Mbit/s  60      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh     Infra  161   540 Mbit/s  54      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                Infra  1     270 Mbit/s  30      ▂___  --        
+        28:AC:67:0D:A5:88  Rainbow1F_Conference  Infra  1     270 Mbit/s  27      ▂___  WPA2      
+
+2023-11-17 17:48:01 [RETURN] Get Wifi List : 6
+2023-11-17 17:48:01 [OUTPUT] 3 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi List : 6
+2023-11-17 17:48:01 [OUTPUT] 3 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi List : 6
+2023-11-17 17:48:01 [OUTPUT] 3 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi List : 6
+2023-11-17 17:48:01 [OUTPUT] 3 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi List : 6
+2023-11-17 17:48:01 [OUTPUT] 3 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi List : 6
+2023-11-17 17:48:01 [OUTPUT] 3 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi List : 6
+2023-11-17 17:48:01 [OUTPUT] 3 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi List : 6
+2023-11-17 17:48:01 [OUTPUT] 3 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi List : 6
+2023-11-17 17:48:01 [OUTPUT] 3 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi List : 6
+2023-11-17 17:48:01 [OUTPUT] 3 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi List : 6
+2023-11-17 17:48:01 [OUTPUT] 3 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi List : 6
+2023-11-17 17:48:01 [OUTPUT] 3 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi List : 6
+2023-11-17 17:48:01 [OUTPUT] 3 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi List : 6
+2023-11-17 17:48:01 [ONTIMER] New Command in : 4
+2023-11-17 17:48:01 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-17 17:48:01 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-17 17:48:01 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-17 17:48:01 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        667c715b-e898-4beb-99f1-fcd06db3f793
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlan0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700210582
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9A,E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FC,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+802-11-wireless-security.key-mgmt:      wpa-psk
+802-11-wireless-security.wep-tx-keyidx: 0
+802-11-wireless-security.auth-alg:      open
+802-11-wireless-security.proto:         --
+802-11-wireless-security.pairwise:      --
+802-11-wireless-security.group:         --
+802-11-wireless-security.pmf:           0 (default)
+802-11-wireless-security.leap-username: --
+802-11-wireless-security.wep-key0:      <hidden>
+802-11-wireless-security.wep-key1:      <hidden>
+802-11-wireless-security.wep-key2:      <hidden>
+802-11-wireless-security.wep-key3:      <hidden>
+802-11-wireless-security.wep-key-flags: 0 (none)
+802-11-wireless-security.wep-key-type:  unknown
+802-11-wireless-security.psk:           <hidden>
+802-11-wireless-security.psk-flags:     0 (none)
+802-11-wireless-security.leap-password: <hidden>
+802-11-wireless-security.leap-password-flags:0 (none)
+802-11-wireless-security.wps-method:    0x0 (default)
+802-11-wireless-security.fils:          0 (default)
+ipv4.method:                            auto
+ipv4.dns:                               --
+ipv4.dns-search:                        --
+ipv4.dns-options:                       --
+ipv4.dns-priority:                      0
+ipv4.addresses:                         --
+ipv4.gateway:                           --
+ipv4.routes:                            --
+ipv4.route-metric:                      -1
+ipv4.route-table:                       0 (unspec)
+ipv4.routing-rules:                     --
+ipv4.ignore-auto-routes:                no
+ipv4.ignore-auto-dns:                   no
+ipv4.dhcp-client-id:                    --
+ipv4.dhcp-iaid:                         --
+ipv4.dhcp-timeout:                      0 (default)
+ipv4.dhcp-send-hostname:                yes
+ipv4.dhcp-hostname:                     --
+ipv4.dhcp-fqdn:                         --
+ipv4.dhcp-hostname-flags:               0x0 (none)
+ipv4.never-default:                     no
+ipv4.may-fail:                          yes
+ipv4.dad-timeout:                       -1 (default)
+ipv6.method:                            auto
+ipv6.dns:                               --
+ipv6.dns-search:                        --
+ipv6.dns-options:                       --
+ipv6.dns-priority:                      0
+ipv6.addresses:                         --
+ipv6.gateway:                           --
+ipv6.routes:                            --
+ipv6.route-metric:                      -1
+ipv6.route-table:                       0 (unspec)
+ipv6.routing-rules:                     --
+ipv6.ignore-auto-routes:                no
+ipv6.ignore-auto-dns:                   no
+ipv6.never-default:                     no
+ipv6.may-fail:                          yes
+ipv6.ip6-privacy:                       -1 (unknown)
+ipv6.addr-gen-mode:                     stable-privacy
+ipv6.ra-timeout:                        0 (default)
+ipv6.dhcp-duid:                         --
+ipv6.dhcp-iaid:                         --
+ipv6.dhcp-timeout:                      0 (default)
+ipv6.dhcp-send-hostname:                yes
+ipv6.dhcp-hostname:                     --
+ipv6.dhcp-hostname-flags:               0x0 (none)
+ipv6.token:                             --
+proxy.method:                           none
+proxy.browser-only:                     no
+proxy.pac-url:                          --
+proxy.pac-script:                       --
+GENERAL.NAME:                           mobile_robot_mesh
+GENERAL.UUID:                           667c715b-e898-4beb-99f1-fcd06db3f793
+GENERAL.DEVICES:                        wlan0
+GENERAL.IP-IFACE:                       wlan0
+GENERAL.STATE:                          activated
+GENERAL.DEFAULT:                        no
+GENERAL.DEFAULT6:                       no
+GENERAL.SPEC-OBJECT:                    /org/freedesktop/NetworkManager/AccessPoint/1
+GENERAL.VPN:                            no
+GENERAL.DBUS-PATH:                      /org/freedesktop/NetworkManager/ActiveConnection/2
+GENERAL.CON-PATH:                       /org/freedesktop/NetworkManager/Settings/1
+GENERAL.ZONE:                           --
+GENERAL.MASTER-PATH:                    --
+IP4.ADDRESS[1]:                         10.108.1.152/24
+IP4.GATEWAY:                            10.108.1.1
+IP4.ROUTE[1]:                           dst = 0.0.0.0/0, nh = 10.108.1.1, mt = 600
+IP4.ROUTE[2]:                           dst = 10.108.1.0/24, nh = 0.0.0.0, mt = 600
+IP4.ROUTE[3]:                           dst = 169.254.0.0/16, nh = 0.0.0.0, mt = 1000
+IP4.DNS[1]:                             10.108.1.1
+DHCP4.OPTION[1]:                        dhcp_lease_time = 86400
+DHCP4.OPTION[2]:                        domain_name_servers = 10.108.1.1
+DHCP4.OPTION[3]:                        expiry = 1700271518
+DHCP4.OPTION[4]:                        host_name = odroid
+DHCP4.OPTION[5]:                        ip_address = 10.108.1.152
+DHCP4.OPTION[6]:                        next_server = 10.108.1.1
+DHCP4.OPTION[7]:                        requested_broadcast_address = 1
+DHCP4.OPTION[8]:                        requested_domain_name = 1
+DHCP4.OPTION[9]:                        requested_domain_name_servers = 1
+DHCP4.OPTION[10]:                       requested_domain_search = 1
+DHCP4.OPTION[11]:                       requested_host_name = 1
+DHCP4.OPTION[12]:                       requested_interface_mtu = 1
+DHCP4.OPTION[13]:                       requested_ms_classless_static_routes = 1
+DHCP4.OPTION[14]:                       requested_nis_domain = 1
+DHCP4.OPTION[15]:                       requested_nis_servers = 1
+DHCP4.OPTION[16]:                       requested_ntp_servers = 1
+DHCP4.OPTION[17]:                       requested_rfc3442_classless_static_routes = 1
+DHCP4.OPTION[18]:                       requested_root_path = 1
+DHCP4.OPTION[19]:                       requested_routers = 1
+DHCP4.OPTION[20]:                       requested_static_routes = 1
+DHCP4.OPTION[21]:                       requested_subnet_mask = 1
+DHCP4.OPTION[22]:                       requested_time_offset = 1
+DHCP4.OPTION[23]:                       requested_wpad = 1
+DHCP4.OPTION[24]:                       routers = 10.108.1.1
+DHCP4.OPTION[25]:                       subnet_mask = 255.255.255.0
+IP6.ADDRESS[1]:                         fe80::50dc:d25a:e885:8e7d/64
+IP6.GATEWAY:                            --
+IP6.ROUTE[1]:                           dst = fe80::/64, nh = ::, mt = 600
+IP6.ROUTE[2]:                           dst = ff00::/8, nh = ::, mt = 256, table=255
+
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [OUTPUT] 4 : 
+2023-11-17 17:48:01 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:48:01 [ONTIMER] New Command in : 2
+2023-11-17 17:48:01 [ONTIMER] Set Command : 2 (list size = 0)
+2023-11-17 17:48:01 [FUNCTION] Get System Volume
+2023-11-17 17:48:01 [PROCESS] Start Process : amixer -D pulse sget Master
+2023-11-17 17:48:01 [OUTPUT] 2 : Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 45854 [70%] [on]
+  Front Right: Playback 45854 [70%] [on]
+
+2023-11-17 17:48:01 [RETURN] Get System Volume : 70
+2023-11-17 17:48:01 [ONTIMER] New Command in : 7
+2023-11-17 17:48:01 [ONTIMER] Set Command : 7 (list size = 0)
+2023-11-17 17:48:01 [FUNCTION] Check Connection : mobile_robot_mesh
+2023-11-17 17:48:01 [PROCESS] Start Process : nmcli net con
+2023-11-17 17:48:01 [OUTPUT] 7 : full
+
+2023-11-17 17:48:01 [RETURN] Check Connection : Success mobile_robot_mesh
+2023-11-17 17:48:05 [ONTIMER] New Command in : 7
+2023-11-17 17:48:05 [ONTIMER] Set Command : 7 (list size = 0)
+2023-11-17 17:48:05 [FUNCTION] Check Connection : mobile_robot_mesh
+2023-11-17 17:48:05 [PROCESS] Start Process : nmcli net con
+2023-11-17 17:48:06 [OUTPUT] 7 : full
+
+2023-11-17 17:48:06 [RETURN] Check Connection : Success mobile_robot_mesh
+2023-11-17 17:49:47 [ONTIMER] New Command in : 3
+2023-11-17 17:49:47 [ONTIMER] Set Command : 3 (list size = 0)
+2023-11-17 17:49:47 [FUNCTION] Get Wifi List
+2023-11-17 17:49:47 [PROCESS] Start Process : nmcli device wifi list
+2023-11-17 17:49:51 [OUTPUT] 3 : IN-USE  BSSID              SSID                       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        E8:9F:80:DD:51:FC  mobile_robot_mesh          Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        EE:9F:80:DD:51:FC  --                         Infra  8     130 Mbit/s  100     ▂▄▆█  WPA2      
+        EE:9F:80:DD:4F:FE  --                         Infra  8     270 Mbit/s  90      ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FE  mobile_robot_mesh          Infra  8     270 Mbit/s  90      ▂▄▆█  WPA2      
+*       E8:9F:80:DD:51:FD  mobile_robot_mesh          Infra  36    270 Mbit/s  87      ▂▄▆█  WPA2      
+        D8:EC:5E:DD:57:70  order_picking              Infra  161   540 Mbit/s  82      ▂▄▆█  WPA2      
+        E8:9F:80:DD:4F:FF  mobile_robot_mesh          Infra  44    270 Mbit/s  79      ▂▄▆_  WPA2      
+        DE:EC:5E:DD:57:6E  --                         Infra  2     130 Mbit/s  77      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6E  order_picking              Infra  2     130 Mbit/s  77      ▂▄▆_  WPA2      
+        78:D2:94:51:87:33  Research_2                 Infra  13    260 Mbit/s  74      ▂▄▆_  WPA1 WPA2 
+        E8:9F:80:DD:50:00  mobile_robot_mesh          Infra  149   540 Mbit/s  69      ▂▄▆_  WPA2      
+        D8:EC:5E:DD:57:6F  order_picking              Infra  36    270 Mbit/s  67      ▂▄▆_  WPA2      
+        78:D2:94:51:87:35  Research_2_5G              Infra  44    540 Mbit/s  65      ▂▄▆_  WPA1 WPA2 
+        EE:9F:80:DD:4F:9A  --                         Infra  13    130 Mbit/s  64      ▂▄▆_  WPA2      
+        E8:9F:80:DD:4F:9A  mobile_robot_mesh          Infra  13    130 Mbit/s  60      ▂▄▆_  WPA2      
+        58:86:94:7E:D6:48  Rainbow1F_Rest             Infra  5     270 Mbit/s  54      ▂▄__  WPA2      
+        E8:9F:80:DD:4F:9C  mobile_robot_mesh          Infra  161   540 Mbit/s  52      ▂▄__  WPA2      
+        28:AC:67:0D:A5:88  Rainbow1F_Conference       Infra  1     270 Mbit/s  34      ▂▄__  WPA2      
+        58:86:94:40:27:EA  iptime                     Infra  1     270 Mbit/s  30      ▂___  --        
+        1C:39:29:44:63:7A  AT_401_RAC_056905_WW_637a  Infra  11    65 Mbit/s   30      ▂___  WPA2      
+
+2023-11-17 17:49:51 [RETURN] Get Wifi List : 8
+2023-11-17 17:49:52 [ONTIMER] New Command in : 4
+2023-11-17 17:49:52 [ONTIMER] Set Command : 4 (list size = 0)
+2023-11-17 17:49:52 [FUNCTION] Get Wifi IP : mobile_robot_mesh
+2023-11-17 17:49:52 [PROCESS] Start Process : nmcli con show mobile_robot_mesh
+2023-11-17 17:49:52 [OUTPUT] 4 : connection.id:                          mobile_robot_mesh
+connection.uuid:                        667c715b-e898-4beb-99f1-fcd06db3f793
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlan0
+connection.autoconnect:                 yes
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1700210882
+connection.read-only:                   no
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     unknown
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   mobile_robot_mesh
+802-11-wireless.mode:                   infrastructure
+802-11-wireless.band:                   --
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            E8:9F:80:DD:4F:9A,E8:9F:80:DD:4F:9B,E8:9F:80:DD:4F:FF,E8:9F:80:DD:50:00,E8:9F:80:DD:51:FC,E8:9F:80:DD:51:FD,E8:9F:80:DD:51:FE
+802-11-wireless.hidden:                 no
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+802-11-wireless-security.key-mgmt:      wpa-psk
+802-11-wireless-security.wep-tx-keyidx: 0
+802-11-wireless-security.auth-alg:      open
+802-11-wireless-security.proto:         --
+802-11-wireless-security.pairwise:      --
+802-11-wireless-security.group:         --
+802-11-wireless-security.pmf:           0 (default)
+802-11-wireless-security.leap-username: --
+802-11-wireless-security.wep-key0:      <hidden>
+802-11-wireless-security.wep-key1:      <hidden>
+802-11-wireless-security.wep-key2:      <hidden>
+802-11-wireless-security.wep-key3:      <hidden>
+802-11-wireless-security.wep-key-flags: 0 (none)
+802-11-wireless-security.wep-key-type:  unknown
+802-11-wireless-security.psk:           <hidden>
+802-11-wireless-security.psk-flags:     0 (none)
+802-11-wireless-security.leap-password: <hidden>
+802-11-wireless-security.leap-password-flags:0 (none)
+802-11-wireless-security.wps-method:    0x0 (default)
+802-11-wireless-security.fils:          0 (default)
+ipv4.method:                            auto
+ipv4.dns:                               --
+ipv4.dns-search:                        --
+ipv4.dns-options:                       --
+ipv4.dns-priority:                      0
+ipv4.addresses:                         --
+ipv4.gateway:                           --
+ipv4.routes:                            --
+ipv4.route-metric:                      -1
+ipv4.route-table:                       0 (unspec)
+ipv4.routing-rules:                     --
+ipv4.ignore-auto-routes:                no
+ipv4.ignore-auto-dns:                   no
+ipv4.dhcp-client-id:                    --
+ipv4.dhcp-iaid:                         --
+ipv4.dhcp-timeout:                      0 (default)
+ipv4.dhcp-send-hostname:                yes
+ipv4.dhcp-hostname:                     --
+ipv4.dhcp-fqdn:                         --
+ipv4.dhcp-hostname-flags:               0x0 (none)
+ipv4.never-default:                     no
+ipv4.may-fail:                          yes
+ipv4.dad-timeout:                       -1 (default)
+ipv6.method:                            auto
+ipv6.dns:                               --
+ipv6.dns-search:                        --
+ipv6.dns-options:                       --
+ipv6.dns-priority:                      0
+ipv6.addresses:                         --
+ipv6.gateway:                           --
+ipv6.routes:                            --
+ipv6.route-metric:                      -1
+ipv6.route-table:                       0 (unspec)
+ipv6.routing-rules:                     --
+ipv6.ignore-auto-routes:                no
+ipv6.ignore-auto-dns:                   no
+ipv6.never-default:                     no
+ipv6.may-fail:                          yes
+ipv6.ip6-privacy:                       -1 (unknown)
+ipv6.addr-gen-mode:                     stable-privacy
+ipv6.ra-timeout:                        0 (default)
+ipv6.dhcp-duid:                         --
+ipv6.dhcp-iaid:                         --
+ipv6.dhcp-timeout:                      0 (default)
+ipv6.dhcp-send-hostname:                yes
+ipv6.dhcp-hostname:                     --
+ipv6.dhcp-hostname-flags:               0x0 (none)
+ipv6.token:                             --
+proxy.method:                           none
+proxy.browser-only:                     no
+proxy.pac-url:                          --
+proxy.pac-script:                       --
+GENERAL.NAME:                           mobile_robot_mesh
+GENERAL.UUID:                           667c715b-e898-4beb-99f1-fcd06db3f793
+GENERAL.DEVICES:                        wlan0
+GENERAL.IP-IFACE:                       wlan0
+GENERAL.STATE:                          activated
+GENERAL.DEFAULT:                        no
+GENERAL.DEFAULT6:                       no
+GENERAL.SPEC-OBJECT:                    /org/freedesktop/NetworkManager/AccessPoint/1
+GENERAL.VPN:                            no
+GENERAL.DBUS-PATH:                      /org/freedesktop/NetworkManager/ActiveConnection/2
+GENERAL.CON-PATH:                       /org/freedesktop/NetworkManager/Settings/1
+GENERAL.ZONE:                           --
+GENERAL.MASTER-PATH:                    --
+IP4.ADDRESS[1]:                         10.108.1.152/24
+IP4.GATEWAY:                            10.108.1.1
+IP4.ROUTE[1]:                           dst = 0.0.0.0/0, nh = 10.108.1.1, mt = 600
+IP4.ROUTE[2]:                           dst = 10.108.1.0/24, nh = 0.0.0.0, mt = 600
+IP4.ROUTE[3]:                           dst = 169.254.0.0/16, nh = 0.0.0.0, mt = 1000
+IP4.DNS[1]:                             10.108.1.1
+DHCP4.OPTION[1]:                        dhcp_lease_time = 86400
+DHCP4.OPTION[2]:                        domain_name_servers = 10.108.1.1
+DHCP4.OPTION[3]:                        expiry = 1700271518
+DHCP4.OPTION[4]:                        host_name = odroid
+DHCP4.OPTION[5]:                        ip_address = 10.108.1.152
+DHCP4.OPTION[6]:                        next_server = 10.108.1.1
+DHCP4.OPTION[7]:                        requested_broadcast_address = 1
+DHCP4.OPTION[8]:                        requested_domain_name = 1
+DHCP4.OPTION[9]:                        requested_domain_name_servers = 1
+DHCP4.OPTION[10]:                       requested_domain_search = 1
+DHCP4.OPTION[11]:                       requested_host_name = 1
+DHCP4.OPTION[12]:                       requested_interface_mtu = 1
+DHCP4.OPTION[13]:                       requested_ms_classless_static_routes = 1
+DHCP4.OPTION[14]:                       requested_nis_domain = 1
+DHCP4.OPTION[15]:                       requested_nis_servers = 1
+DHCP4.OPTION[16]:                       requested_ntp_servers = 1
+DHCP4.OPTION[17]:                       requested_rfc3442_classless_static_routes = 1
+DHCP4.OPTION[18]:                       requested_root_path = 1
+DHCP4.OPTION[19]:                       requested_routers = 1
+DHCP4.OPTION[20]:                       requested_static_routes = 1
+DHCP4.OPTION[21]:                       requested_subnet_mask = 1
+DHCP4.OPTION[22]:                       requested_time_offset = 1
+DHCP4.OPTION[23]:                       requested_wpad = 1
+DHCP4.OPTION[24]:                       routers = 10.108.1.1
+DHCP4.OPTION[25]:                       subnet_mask = 255.255.255.0
+IP6.ADDRESS[1]:                         fe80::50dc:d25a:e885:8e7d/64
+IP6.GATEWAY:                            --
+IP6.ROUTE[1]:                           dst = fe80::/64, nh = ::, mt = 600
+IP6.ROUTE[2]:                           dst = ff00::/8, nh = ::, mt = 256, table=255
+
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [OUTPUT] 4 : 
+2023-11-17 17:49:52 [RETURN] Get Wifi IP : 10.108.1.152, 10.108.1.1, 10.108.1.1
+2023-11-17 17:49:52 [ONTIMER] New Command in : 2
+2023-11-17 17:49:52 [ONTIMER] Set Command : 2 (list size = 0)
+2023-11-17 17:49:52 [FUNCTION] Get System Volume
+2023-11-17 17:49:52 [PROCESS] Start Process : amixer -D pulse sget Master
+2023-11-17 17:49:52 [OUTPUT] 2 : Simple mixer control 'Master',0
+  Capabilities: pvolume pswitch pswitch-joined
+  Playback channels: Front Left - Front Right
+  Limits: Playback 0 - 65536
+  Mono:
+  Front Left: Playback 45854 [70%] [on]
+  Front Right: Playback 45854 [70%] [on]
+
+2023-11-17 17:49:52 [RETURN] Get System Volume : 70
+2023-11-17 17:49:52 [ONTIMER] New Command in : 7
+2023-11-17 17:49:52 [ONTIMER] Set Command : 7 (list size = 0)
+2023-11-17 17:49:52 [FUNCTION] Check Connection : mobile_robot_mesh
+2023-11-17 17:49:52 [PROCESS] Start Process : nmcli net con
+2023-11-17 17:49:52 [OUTPUT] 7 : full
+
+2023-11-17 17:49:52 [RETURN] Check Connection : Success mobile_robot_mesh

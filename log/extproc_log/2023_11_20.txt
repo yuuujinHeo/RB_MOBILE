@@ -1,0 +1,5 @@
+2023-11-20 10:39:26 [CONSTRUCTOR] SharedMemory is already exist. attach success.
+2023-11-20 10:39:26 [CONSTRUCTOR] SharedMemory(Return) is already exist. attach success
+2023-11-20 10:39:26 [CONSTRUCTOR] SharedMemory(Return) Clear
+2023-11-20 10:39:26 [CONSTRUCTOR] SharedMemory(WifiList) is already exist. attach success
+2023-11-20 10:39:26 [CONSTRUCTOR] SharedMemory(WifiList) Clear
