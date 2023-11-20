@@ -1,0 +1,6 @@
+config/
+maps/
+log/
+build/
+!config/update_config.ini
+
