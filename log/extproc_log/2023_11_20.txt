@@ -482,3 +482,8 @@ IP6.ROUTE[2]:                           dst = ff00::/8, nh = ::, mt = 256, table
 2023-11-20 17:30:32 [CONSTRUCTOR] SharedMemory(Return) Clear
 2023-11-20 17:30:32 [CONSTRUCTOR] SharedMemory(WifiList) is already exist. attach success
 2023-11-20 17:30:32 [CONSTRUCTOR] SharedMemory(WifiList) Clear
+2023-11-20 17:47:27 [CONSTRUCTOR] SharedMemory is already exist. attach success.
+2023-11-20 17:47:27 [CONSTRUCTOR] SharedMemory(Return) is already exist. attach success
+2023-11-20 17:47:27 [CONSTRUCTOR] SharedMemory(Return) Clear
+2023-11-20 17:47:27 [CONSTRUCTOR] SharedMemory(WifiList) is already exist. attach success
+2023-11-20 17:47:27 [CONSTRUCTOR] SharedMemory(WifiList) Clear

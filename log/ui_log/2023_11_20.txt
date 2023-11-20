@@ -231,3 +231,75 @@
 2023-11-20 17:33:27 [BUILDER] SUPERVISOR desployed
 2023-11-20 17:33:27 [IPC] Clear CMD ShardMemory
 2023-11-20 17:33:28 [BUILDER] KILLED SLAMNAV
+2023-11-20 17:47:26 [LOGGER] file opened
+2023-11-20 17:47:26 
+2023-11-20 17:47:26 
+2023-11-20 17:47:26 
+2023-11-20 17:47:26 
+2023-11-20 17:47:26 
+2023-11-20 17:47:26 [BUILDER] Program Started. Supervisor constructed.
+2023-11-20 17:47:27 [SERVER] Check Update : serving.001.01.temp20
+2023-11-20 17:47:27 [SERVER] Upload Release : http://rbyujin.com:8080/upload/release/serving.001.01.temp20/hello..4
+2023-11-20 17:47:27 [SERVER] Upload Release : http://rbyujin.com:8080/upload/release/serving.001.01.temp20/hello..4
+2023-11-20 17:47:27 [SERVER] Upload Release : http://rbyujin.com:8080/upload/release/serving.001.01.temp20/hello..4
+2023-11-20 17:47:27 [SERVER] CMD : Get Git Commits
+2023-11-20 17:47:27 [IPC] Command is already exist. attach success. 
+2023-11-20 17:47:27 [IPC] UiStatus is already exist. attach success. 
+2023-11-20 17:47:27 [IPC] Status is already exist. attach success. 
+2023-11-20 17:47:27 [IPC] Path is already exist. attach success. 
+2023-11-20 17:47:27 [IPC] Map is already exist. attach success. 
+2023-11-20 17:47:27 [IPC] ObsMap is already exist. attach success. 
+2023-11-20 17:47:27 [IPC] Camera0 is already exist. attach success. 
+2023-11-20 17:47:27 [IPC] Camera1 is already exist. attach success. 
+2023-11-20 17:47:27 [IPC] CameraColor0 is already exist. attach success. 
+2023-11-20 17:47:27 [IPC] CameraColor1 is already exist. attach success. 
+2023-11-20 17:47:27 [IPC] LocationStatus is already exist. attach success. 
+2023-11-20 17:47:27 [IPC] CallLocation is already exist. attach success. 
+2023-11-20 17:47:27 [IPC] CallStatus is already exist. attach success. 
+2023-11-20 17:47:27 [IPC] Clear CMD ShardMemory
+2023-11-20 17:47:27 [IPC] Clear CMD ShardMemory
+2023-11-20 17:47:27 [IPC] Clear CMD ShardMemory
+2023-11-20 17:47:27 [IPC] IPCHandler Constructed. IPC_USE = TRUE
+2023-11-20 17:47:27 [CALLBELL] Port Open Failed
+2023-11-20 17:47:27 [ExtProcess] SharedMemory is already exist. attach success. 
+2023-11-20 17:47:27 [ExtProcess] Clear ShardMemory
+2023-11-20 17:47:27 [ExtProcess] SharedMemory(Return) is already exist. attach success. 
+2023-11-20 17:47:27 [ExtProcess] SharedMemory(Wifilist) is already exist. attach success. 
+2023-11-20 17:47:27 [SETTING] SET MOTOR/k_i VALUE TO 0.0
+2023-11-20 17:47:27 [SUPERVISOR] READ SETTING : 
+2023-11-20 17:47:27 [SUPERVISOR] READ SETTING : SENSOR done
+2023-11-20 17:47:27 [MapHandler] load File map_1010 : RAW(success) , EDITED(success) , TRAVELLINE(success 1000 ) , VELOCITY(failed) , OBJECT(failed) , FILEWIDTH(1000)
+2023-11-20 17:47:27 [SUPERVISOR] READ SETTING : map_1010
+2023-11-20 17:47:27 [SUPERVISOR] READ SETTING : meta done
+2023-11-20 17:47:27 [SUPERVISOR] READ SETTING : annot done
+2023-11-20 17:47:27 [SUPERVISOR] READ SETTING : object done
+2023-11-20 17:47:27 [SUPERVISOR] START SLAM
+2023-11-20 17:47:29 [SUPERVISOR] RESTART SLAM -> START SLAM 0
+2023-11-20 17:47:29 [USB] NEW USB Detected : 0
+2023-11-20 17:47:29 [SUPERVISOR] SET LANGAUGE : 
+2023-11-20 17:47:30 [SETTING] get Voice mode = woman, name = low_battery, source = voice/woman_low_battery.mp3
+2023-11-20 17:47:30 [SETTING] get Voice mode = woman, name = error_emo, source = voice/woman_error_emo.mp3
+2023-11-20 17:47:30 [SETTING] get Voice mode = woman, name = error_call_manager, source = voice/woman_error_call_manager.mp3
+2023-11-20 17:47:30 [SETTING] get Voice mode = woman, name = error_localization, source = voice/woman_error_localization.mp3
+2023-11-20 17:47:30 [SETTING] get Voice mode = woman, name = start_move_resting, source = voice/woman_start_move_resting.mp3
+2023-11-20 17:47:30 [SETTING] get Voice mode = woman, name = error_no_path, source = voice/woman_error_no_path.mp3
+2023-11-20 17:47:30 [SETTING] get Voice mode = woman, name = wait, source = voice/woman_wait.mp3
+2023-11-20 17:47:30 [SETTING] get Voice mode = woman, name = serving, source = voice/woman_serving.mp3
+2023-11-20 17:47:30 [SETTING] get Voice mode = woman, name = start_calling, source = voice/woman_start_calling.mp3
+2023-11-20 17:47:30 [SETTING] get Voice mode = woman, name = start_serving, source = voice/woman_start_serving.mp3
+2023-11-20 17:47:30 [SETTING] get Voice mode = woman, name = start_move_charge, source = voice/woman_start_move_charge.mp3
+2023-11-20 17:47:30 [IPC] Clear CMD ShardMemory
+2023-11-20 17:47:30 [QML MAP] SET Viewer POPUP to annot_view
+2023-11-20 17:47:30 [MapHandler] POPUP set Mode to annot_view
+2023-11-20 17:47:30 [BUILDER] SUPERVISOR SET WINDOW 
+2023-11-20 17:47:30 [SUPERVISOR] IPC Disconnected. (ui_state = NONE)
+2023-11-20 17:47:30 [QML - MAIN] Window show fullscreen
+2023-11-20 17:47:30 [SERVER] GET GIT RECENT COMMIT : e4b7fd045bb5a9ff9eafa0a2ed5b8674b0cf4d88, 2023-11-17T05:04:42Z, SLAMNAV was added
+2023-11-20 17:47:30 [SERVER] PROGRAM NEED UPDATE 
+2023-11-20 17:47:31 [ZIP] Make Map.zip : map_1010
+2023-11-20 17:47:31 [ZIP] Compress : /home/odroid/RB_MOBILE/maps/map_1010
+2023-11-20 17:47:34 [USER INPUT] STATUS BAR : PROGRAM EXIT
+2023-11-20 17:47:34 [USER INPUT] PROGRAM EXIT
+2023-11-20 17:47:34 [BUILDER] SUPERVISOR desployed
+2023-11-20 17:47:34 [IPC] Clear CMD ShardMemory
+2023-11-20 17:47:35 [BUILDER] KILLED SLAMNAV
