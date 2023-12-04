@@ -15,6 +15,14 @@ else
      kill -9 $pid
 fi
 
+pid=`ps -ef | grep "MAIN_MOBILE" | grep -v 'grep' | awk '{print $2}'`
+if [ -z $pid ]
+then
+     echo "MAIN_MOBILE is not running"
+else
+     kill -9 $pid
+fi
+
 cd ~/RB_MOBILE/release
 ./MAIN_MOBILE
 exit 0
